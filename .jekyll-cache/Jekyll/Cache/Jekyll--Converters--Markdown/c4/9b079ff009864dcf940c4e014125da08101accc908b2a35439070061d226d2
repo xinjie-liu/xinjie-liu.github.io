@@ -1,0 +1,24 @@
+I"Ã<h2 id="about">About</h2>
+
+<p>This is a motion planning and control project for mobile robots. The objective is to use quadrotor drone robots for autonomous delivery. We realize autonomous navigation by implementing the global path search method RRT*. The path is smoothed by conducting minimum-snap optimization.</p>
+
+<p>We design a non-linear MPC controller as the local planner, which can avoid local obstacles while tracking the reference. The robot needs to deviate from the reference path when avoiding the local obstacles. The collision avoidance guarantee to the global static obstacles (the walls) is provided by real-time box constraints. We tested our method in several scenarios.</p>
+
+<p>The project was along with the course <em>RO47005 Planning and Decision Making</em> (instructor: Prof. Javier Alonso-Mora) at the Delft University of Technology. The final grade for this project was 9.5/10 (top 1 in the class).</p>
+
+<p><img src="/assets/img/rrt.gif" alt="husky_simulation" width="600" /></p>
+
+<p><img src="/assets/img/pdm.gif" alt="husky_simulation" width="600" /></p>
+
+<h2 id="paper--code">Paper &amp; Code</h2>
+
+<!-- TODO: cool responsive image -->
+
+<p>The code repository can be found <a href="https://github.com/xinjie-liu/PlanningDecisionMaking">here</a></p>
+
+<p>The paper can be found <a href="https://www.researchgate.net/publication/358573208_Planning_Algorithm_for_a_Quadrotor_Drone">here</a></p>
+
+<h2 id="supplementary-video">Supplementary Video</h2>
+
+<iframe width="880" height="495" src="https://www.youtube.com/embed/opqHCWvAOwY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+:ET

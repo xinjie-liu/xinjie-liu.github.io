@@ -1,0 +1,22 @@
+I"<h2 id="about">About</h2>
+
+<p>This is my bachelor thesis project, where I researched interactive imitation learning techniques. Combined with human corrective feedback, the robots rapidly learn to perform various control tasks in simulation.</p>
+
+<p>This work was jointly (and mainly) supervised by Prof. Youling Yu at the College of Electronics and Information Engineering and was rated as <em>Outstanding Bachelor Thesis</em> at Tongji University, Shanghai.</p>
+
+<p><img src="/assets/img/lunarlander.gif" alt="husky_simulation" width="600" /></p>
+
+<p><img src="/assets/img/reacher.gif" alt="husky_simulation" width="600" /></p>
+
+<h2 id="thesis">Thesis</h2>
+
+<!-- TODO: cool responsive image -->
+
+<p>The full-text thesis can be found <a href="https://www.researchgate.net/publication/355973551_Interactive_Imitation_Learning_in_Robotics_based_on_Simulations">here</a>.</p>
+
+<p>Note that this is a translated version just for demonstration purpose, which is not reviewed.</p>
+
+<h2 id="supplementary-video">Supplementary Video</h2>
+
+<iframe width="880" height="495" src="https://www.youtube.com/embed/UWsm4tz7cn0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+:ET
