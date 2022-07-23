@@ -2,9 +2,9 @@
 layout: page
 title: project 1
 description: a project with a background image
-img: assets/img/12.jpg
+img: assets/img/Husky_obstacle.gif
 importance: 1
-category: work
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.
@@ -78,3 +78,7 @@ Here's the code for the last row of images above:
 </div>
 ```
 {% endraw %}
+
+<iframe width="880" height="495" src="https://www.youtube.com/embed/nYDxWkKvzZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="880" height="495" src="https://www.youtube.com/embed/nYDxWkKvzZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
