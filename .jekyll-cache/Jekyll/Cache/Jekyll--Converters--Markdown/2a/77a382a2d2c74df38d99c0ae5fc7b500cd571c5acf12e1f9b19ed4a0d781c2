@@ -1,4 +1,4 @@
-I";6<!-- pages/projects.md -->
+I"r:<!-- pages/projects.md -->
 <div class="projects">
   <!-- Display categorized projects -->
   <h2 class="category">work</h2>
@@ -26,6 +26,34 @@
         <div class="card-body">
           <h2 class="card-title text-lowercase">MPC Designing and Analysis</h2>
           <p class="card-text">an model predictive control approach design and analysis</p>
+          <div class="row ml-1 mr-1 p-0">
+          </div>
+        </div>
+      </div>
+    </a>
+</div><!-- _includes/projects.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  <a href="/projects/erf2022/">
+      <div class="card hoverable"><figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/battery.gif-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/battery.gif-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/battery.gif-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/battery.gif" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+        <div class="card-body">
+          <h2 class="card-title text-lowercase">Rapidly learn manipulation tasks by demonstration</h2>
+          <p class="card-text">Hackathon challenge by Franka Emika at ERF2022</p>
           <div class="row ml-1 mr-1 p-0">
           </div>
         </div>
