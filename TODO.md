@@ -2,7 +2,7 @@
 
 * projects refine style
 
-* CV link
+* ~~CV link~~
 
 * change theme color
 
@@ -10,6 +10,6 @@
 
 * cool responsive images (low priority)
 
-* Github repository refinement
+* Github repository refinement (low priority)
 
-* domain name
+* domain name (low priority)

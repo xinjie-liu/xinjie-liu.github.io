@@ -4,6 +4,5 @@ permalink: /cv/
 title: curriculum vitae
 nav: true
 nav_order: 3
-#redirect: /assets/pdf/example_pdf.pdf
-cv_pdf: example_pdf.pdf
+redirect_to: /static/resume/xinjie_cv.pdf
 ---
