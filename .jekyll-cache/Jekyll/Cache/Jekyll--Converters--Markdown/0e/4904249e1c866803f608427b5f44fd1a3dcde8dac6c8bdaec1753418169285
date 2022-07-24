@@ -1,0 +1,16 @@
+I"3<h2 id="news">News</h2>
+
+<ul>
+  <li><strong>2022-06-30</strong> We won the <a href="https://erf2022.eu/programme/#hackathon">Hackathon</a> challenge at ERF2022! (<a href="https://www.linkedin.com/feed/update/urn:li:activity:6948525659862306816/">Post</a> from the sponsor Franka Emika)</li>
+</ul>
+
+<hr />
+
+<h2 id="about">About</h2>
+
+<p>This project is our implementation at the Hackathon challenge at the European Robotics Forum 2022, provided by the sponsor Franka Emika. We (Delft University of Technology team) won the final prize.</p>
+
+<p>The challenge tasks are described <a href="https://robothon-grand-challenge.com/competition/">here</a>. We used a depth camera and the localization algorithm (global point cloud registration + ICP + physical touching motion) to localize the randomly positioned task board precisely. The tasks are done by the learning-from-demonstration (LfD) method.</p>
+
+<p>The supplementary videos roughly demonstrated our task performance during the competition. We are working on improving our pipeline and giving more interesting results.</p>
+:ET

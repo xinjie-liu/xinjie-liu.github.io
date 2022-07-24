@@ -1,0 +1,101 @@
+I"Ç<h2 id="news">News</h2>
+
+<ul>
+  <li><strong>2022-06-30</strong> We won the <a href="https://erf2022.eu/programme/#hackathon">Hackathon</a> challenge at ERF2022! (<a href="https://www.linkedin.com/feed/update/urn:li:activity:6948525659862306816/">Post</a> from the sponsor Franka Emika)</li>
+</ul>
+
+<hr />
+
+<h2 id="about">About</h2>
+
+<p>This project is our implementation at the Hackathon challenge at the European Robotics Forum 2022, provided by the sponsor Franka Emika. We (Delft University of Technology team) won the final prize.</p>
+
+<p>The challenge tasks are described <a href="https://robothon-grand-challenge.com/competition/">here</a>. We used a depth camera and the localization algorithm (global point cloud registration + ICP + physical touching motion) to localize the randomly positioned task board precisely. The tasks are done by the learning-from-demonstration (LfD) method.</p>
+
+<p>The supplementary videos roughly demonstrated our task performance during the competition. We are working on improving our pipeline and giving more interesting results.</p>
+
+<div class="row">
+    <div class="col-sm mt-4 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/champion-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/champion-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/champion-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/champion.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="example image" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-4 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/winner.JPG-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/winner.JPG-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/winner.JPG-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/winner.JPG" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="example image" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-4 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/icp-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/icp-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/icp-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/icp.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="example image" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-4 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/battery.gif-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/battery.gif-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/battery.gif-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/battery.gif" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="example image" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+
+<h2 id="code--paper">Code &amp; Paper</h2>
+
+<p>Coming soon! We are working on refining our implementation and more interesting results!</p>
+
+<h2 id="supplementary-video">Supplementary Video</h2>
+
+<iframe width="880" height="495" src="https://www.youtube.com/embed/eahWW2jZXhY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<iframe width="880" height="495" src="https://www.youtube.com/embed/nLR4BDwN78Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+:ET
