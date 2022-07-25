@@ -8,6 +8,8 @@
 
 * change theme color
 
+* education
+
 ---
 
 * key words
