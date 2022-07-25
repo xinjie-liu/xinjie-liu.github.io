@@ -3,7 +3,7 @@ layout: page
 title: "Dynamic Game-Theoretic Planning"
 img: assets/img/game.gif
 importance: 1
-category: work
+category: ongoing
 ---
 
 

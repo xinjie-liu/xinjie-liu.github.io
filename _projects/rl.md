@@ -3,7 +3,7 @@ layout: page
 title: "Model-free RL Algorithms Implementation"
 img: assets/img/lunarlander_.gif
 importance: 2
-category: work
+category: past
 ---
 
 ## About

@@ -4,7 +4,13 @@
 
 * ~~CV link~~
 
+* change font
+
 * change theme color
+
+---
+
+* key words
 
 * calendar
 

@@ -4,7 +4,7 @@ title: "ScrubBot: Autonomous Field Cleaning"
 description: a robotic solution for cleaning a field where obstacles present
 img: assets/img/Husky_obstacle.gif
 importance: 2
-category: work
+category: past
 ---
 
 

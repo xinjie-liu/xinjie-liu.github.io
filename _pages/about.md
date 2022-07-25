@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle:
 
 profile:
   align: right
@@ -18,8 +18,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
+
+Hello and welcome! I am a Master's student at the Department of [Cognitive Robotics (CoR)](https://www.tudelft.nl/3me/over/afdelingen/cognitive-robotics-cor) at Delft University of Technology, working with [Prof. Javier Alonso-Mora](https://www.autonomousrobots.nl/). My research interests currently focus on motion planning and control of autonomous (multi-) robot systems. In particular, my vision is to combine learning methods with techniques like dynamic games and optimal control to develop robust algorithms for real-life applications when uncertainties are present. 
+
+Before that, I received my bachelor's degree with honor in Automotive Engineering from [Tongji University](https://en.tongji.edu.cn/index.htm), Shanghai. During my senior year, I studied as a visiting undergraduate student at [Graz Univerisity of Technology](https://www.tugraz.at/en/home/), Austria. My [bachelor's thesis](/projects/bachelor_thesis/) was on interactive imitation learning of robot tasks, jointly supervised by Prof. Youling Yu at the [College of Electronic and Information Engineering](https://see-en.tongji.edu.cn/). There, my work was rated as *Outstanding Bachelor Thesis* at Tongji University.
+
+I am currently working on my master's thesis on game-theoretic planning and also **searching for opportunities for my PhD research**. Feel free to check out my projects and discuss if you are interested in working with me!

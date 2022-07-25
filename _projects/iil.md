@@ -2,9 +2,10 @@
 layout: page
 title: "Reinforcement Learning via Corrective Feedback"
 description: interactive imitation learning research
+permalink: /projects/bachelor_thesis/
 img: assets/img/reacher.gif
 importance: 5
-category: work
+category: past
 ---
 
 ## About 

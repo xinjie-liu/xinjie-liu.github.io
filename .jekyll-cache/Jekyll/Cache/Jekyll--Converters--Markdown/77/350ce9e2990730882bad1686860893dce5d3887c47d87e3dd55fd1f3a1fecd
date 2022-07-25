@@ -1,7 +1,7 @@
-I"c/<!-- pages/projects.md -->
+I"Î.<!-- pages/projects.md -->
 <div class="projects">
   <!-- Display categorized projects -->
-  <h2 class="category">work</h2>
+  <h2 class="category">ongoing</h2>
   <!-- Generate cards for each project -->
   <div class="grid"><!-- _includes/projects.html -->
 <div class="grid-sizer"></div>
@@ -24,36 +24,8 @@
 </figure>
 
         <div class="card-body">
-          <h2 class="card-title text-lowercase">Dynamic Game-Theoretic Planning</h2>
+          <h2 class="card-title">Dynamic Game-Theoretic Planning</h2>
           <p class="card-text"></p>
-          <div class="row ml-1 mr-1 p-0">
-          </div>
-        </div>
-      </div>
-    </a>
-</div><!-- _includes/projects.html -->
-<div class="grid-sizer"></div>
-<div class="grid-item">
-  <a href="/projects/mpc/">
-      <div class="card hoverable"><figure>
-
-  <picture>
-    
-    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/mpc.gif-480.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/mpc.gif-800.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/mpc.gif-1400.webp" />
-    
-
-    <!-- Fallback to the original file -->
-    <img src="/assets/img/mpc.gif" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
-
-  </picture>
-
-</figure>
-
-        <div class="card-body">
-          <h2 class="card-title text-lowercase">MPC Designing and Analysis</h2>
-          <p class="card-text">an model predictive control approach design and analysis</p>
           <div class="row ml-1 mr-1 p-0">
           </div>
         </div>
@@ -80,8 +52,40 @@
 </figure>
 
         <div class="card-body">
-          <h2 class="card-title text-lowercase">Rapidly learn manipulation tasks by demonstration</h2>
+          <h2 class="card-title">Rapidly learn manipulation tasks by demonstration</h2>
           <p class="card-text">Hackathon challenge by Franka Emika at ERF2022</p>
+          <div class="row ml-1 mr-1 p-0">
+          </div>
+        </div>
+      </div>
+    </a>
+</div>
+  </div>
+  <h2 class="category">past</h2>
+  <!-- Generate cards for each project -->
+  <div class="grid"><!-- _includes/projects.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  <a href="/projects/mpc/">
+      <div class="card hoverable"><figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/mpc.gif-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/mpc.gif-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/mpc.gif-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/mpc.gif" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+        <div class="card-body">
+          <h2 class="card-title">MPC Designing and Analysis</h2>
+          <p class="card-text">an model predictive control approach design and analysis</p>
           <div class="row ml-1 mr-1 p-0">
           </div>
         </div>
@@ -108,7 +112,7 @@
 </figure>
 
         <div class="card-body">
-          <h2 class="card-title text-lowercase">ScrubBot: Autonomous Field Cleaning</h2>
+          <h2 class="card-title">ScrubBot: Autonomous Field Cleaning</h2>
           <p class="card-text">a robotic solution for cleaning a field where obstacles present</p>
           <div class="row ml-1 mr-1 p-0">
           </div>
@@ -136,7 +140,7 @@
 </figure>
 
         <div class="card-body">
-          <h2 class="card-title text-lowercase">Model-free RL Algorithms Implementation</h2>
+          <h2 class="card-title">Model-free RL Algorithms Implementation</h2>
           <p class="card-text"></p>
           <div class="row ml-1 mr-1 p-0">
           </div>
@@ -164,7 +168,7 @@
 </figure>
 
         <div class="card-body">
-          <h2 class="card-title text-lowercase">Autonomous Delivery</h2>
+          <h2 class="card-title">Autonomous Delivery</h2>
           <p class="card-text">motion planning and control for an autonomous quadrotor drone</p>
           <div class="row ml-1 mr-1 p-0">
           </div>
@@ -192,7 +196,7 @@
 </figure>
 
         <div class="card-body">
-          <h2 class="card-title text-lowercase">Multi-Sensor Perception of Intelligent Vehicles</h2>
+          <h2 class="card-title">Multi-Sensor Perception of Intelligent Vehicles</h2>
           <p class="card-text">Pedestrian and obstacle detection using multi-sensor information</p>
           <div class="row ml-1 mr-1 p-0">
           </div>
@@ -220,7 +224,7 @@
 </figure>
 
         <div class="card-body">
-          <h2 class="card-title text-lowercase">Quadrotor Tracking Control</h2>
+          <h2 class="card-title">Quadrotor Tracking Control</h2>
           <p class="card-text">quadrotor controllers implementation for tracking tasks</p>
           <div class="row ml-1 mr-1 p-0">
           </div>
@@ -230,7 +234,7 @@
 </div><!-- _includes/projects.html -->
 <div class="grid-sizer"></div>
 <div class="grid-item">
-  <a href="/projects/iil/">
+  <a href="/projects/bachelor_thesis/">
       <div class="card hoverable"><figure>
 
   <picture>
@@ -248,7 +252,7 @@
 </figure>
 
         <div class="card-body">
-          <h2 class="card-title text-lowercase">Reinforcement Learning via Corrective Feedback</h2>
+          <h2 class="card-title">Reinforcement Learning via Corrective Feedback</h2>
           <p class="card-text">interactive imitation learning research</p>
           <div class="row ml-1 mr-1 p-0">
           </div>
@@ -276,7 +280,7 @@
 </figure>
 
         <div class="card-body">
-          <h2 class="card-title text-lowercase">Learn Driving Policy from Pixels</h2>
+          <h2 class="card-title">Learn Driving Policy from Pixels</h2>
           <p class="card-text">Imitation learning driving policies from image observations</p>
           <div class="row ml-1 mr-1 p-0">
           </div>
@@ -304,7 +308,7 @@
 </figure>
 
         <div class="card-body">
-          <h2 class="card-title text-lowercase">Event2Video: Reproduction Project</h2>
+          <h2 class="card-title">Event2Video: Reproduction Project</h2>
           <p class="card-text">a reproduction project that maps event data to high dynamic range videos using deep neural network</p>
           <div class="row ml-1 mr-1 p-0">
           </div>
@@ -312,9 +316,5 @@
       </div>
     </a>
 </div>
-  </div>
-  <h2 class="category">fun</h2>
-  <!-- Generate cards for each project -->
-  <div class="grid">
   </div></div>
 :ET

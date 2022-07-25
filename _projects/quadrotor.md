@@ -4,7 +4,7 @@ title: "Quadrotor Tracking Control"
 description: quadrotor controllers implementation for tracking tasks
 img: assets/img/quadrotor.gif
 importance: 4
-category: work
+category: past
 ---
 
 ## About

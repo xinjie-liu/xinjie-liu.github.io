@@ -4,7 +4,7 @@ title: "Learn Driving Policy from Pixels"
 description: Imitation learning driving policies from image observations
 img: assets/img/learningdrive.gif
 importance: 5
-category: work
+category: past
 ---
 
 ## About

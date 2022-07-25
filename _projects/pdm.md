@@ -4,7 +4,7 @@ title: "Autonomous Delivery"
 description: motion planning and control for an autonomous quadrotor drone
 img: assets/img/rrt.gif
 importance: 3
-category: work
+category: past
 ---
 
 ## About

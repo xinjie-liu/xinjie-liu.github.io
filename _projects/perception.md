@@ -4,7 +4,7 @@ title: "Multi-Sensor Perception of Intelligent Vehicles"
 description: Pedestrian and obstacle detection using multi-sensor information
 img: assets/img/perception.gif
 importance: 4
-category: work
+category: past
 ---
 
 ## About
