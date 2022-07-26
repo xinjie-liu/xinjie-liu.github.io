@@ -28,4 +28,4 @@ Hello and welcome! I am a Master's student at the Department of [Cognitive Robot
 
 Before that, I received my bachelor's degree with honor in Automotive Engineering from [Tongji University](https://en.tongji.edu.cn/index.htm), Shanghai. During my senior year, I studied as a visiting undergraduate student at [Graz Univerisity of Technology](https://www.tugraz.at/en/home/), Austria. My [bachelor's thesis](/projects/bachelor_thesis/) was on interactive imitation learning of robot tasks, jointly supervised by Prof. Youling Yu at the [College of Electronic and Information Engineering](https://see-en.tongji.edu.cn/). There, my work was rated as *Outstanding Bachelor Thesis* at Tongji University.
 
-I am currently working on my master's thesis on game-theoretic planning and also **searching for opportunities for my PhD research**. Feel free to check out my projects and discuss if you are interested in working with me!
+I am currently working on my master's thesis on game-theoretic planning. Feel free to check out my projects and discuss if you are interested in working with me in the future!

@@ -24,7 +24,7 @@
 </figure>
 
         <div class="card-body">
-          <h2 class="card-title">Dynamic Game-Theoretic Planning</h2>
+          <h1 class="card-title">Dynamic Game-Theoretic Planning</h1>
           <p class="card-text"></p>
           <div class="row ml-1 mr-1 p-0">
           </div>
@@ -52,7 +52,7 @@
 </figure>
 
         <div class="card-body">
-          <h2 class="card-title">Rapidly learn manipulation tasks by demonstration</h2>
+          <h1 class="card-title">Rapidly learn manipulation tasks by demonstration</h1>
           <p class="card-text">Hackathon challenge by Franka Emika at ERF2022</p>
           <div class="row ml-1 mr-1 p-0">
           </div>
@@ -84,7 +84,7 @@
 </figure>
 
         <div class="card-body">
-          <h2 class="card-title">MPC Designing and Analysis</h2>
+          <h1 class="card-title">MPC Designing and Analysis</h1>
           <p class="card-text">an model predictive control approach design and analysis</p>
           <div class="row ml-1 mr-1 p-0">
           </div>
@@ -112,7 +112,7 @@
 </figure>
 
         <div class="card-body">
-          <h2 class="card-title">ScrubBot: Autonomous Field Cleaning</h2>
+          <h1 class="card-title">ScrubBot: Autonomous Field Cleaning</h1>
           <p class="card-text">a robotic solution for cleaning a field where obstacles present</p>
           <div class="row ml-1 mr-1 p-0">
           </div>
@@ -140,7 +140,7 @@
 </figure>
 
         <div class="card-body">
-          <h2 class="card-title">Model-free RL Algorithms Implementation</h2>
+          <h1 class="card-title">Model-free RL Algorithms Implementation</h1>
           <p class="card-text"></p>
           <div class="row ml-1 mr-1 p-0">
           </div>
@@ -168,7 +168,7 @@
 </figure>
 
         <div class="card-body">
-          <h2 class="card-title">Autonomous Delivery</h2>
+          <h1 class="card-title">Autonomous Delivery</h1>
           <p class="card-text">motion planning and control for an autonomous quadrotor drone</p>
           <div class="row ml-1 mr-1 p-0">
           </div>
@@ -196,7 +196,7 @@
 </figure>
 
         <div class="card-body">
-          <h2 class="card-title">Multi-Sensor Perception of Intelligent Vehicles</h2>
+          <h1 class="card-title">Multi-Sensor Perception of Intelligent Vehicles</h1>
           <p class="card-text">Pedestrian and obstacle detection using multi-sensor information</p>
           <div class="row ml-1 mr-1 p-0">
           </div>
@@ -224,7 +224,7 @@
 </figure>
 
         <div class="card-body">
-          <h2 class="card-title">Quadrotor Tracking Control</h2>
+          <h1 class="card-title">Quadrotor Tracking Control</h1>
           <p class="card-text">quadrotor controllers implementation for tracking tasks</p>
           <div class="row ml-1 mr-1 p-0">
           </div>
@@ -252,7 +252,7 @@
 </figure>
 
         <div class="card-body">
-          <h2 class="card-title">Reinforcement Learning via Corrective Feedback</h2>
+          <h1 class="card-title">Reinforcement Learning via Corrective Feedback</h1>
           <p class="card-text">interactive imitation learning research</p>
           <div class="row ml-1 mr-1 p-0">
           </div>
@@ -280,7 +280,7 @@
 </figure>
 
         <div class="card-body">
-          <h2 class="card-title">Learn Driving Policy from Pixels</h2>
+          <h1 class="card-title">Learn Driving Policy from Pixels</h1>
           <p class="card-text">Imitation learning driving policies from image observations</p>
           <div class="row ml-1 mr-1 p-0">
           </div>
@@ -308,7 +308,7 @@
 </figure>
 
         <div class="card-body">
-          <h2 class="card-title">Event2Video: Reproduction Project</h2>
+          <h1 class="card-title">Event2Video: Reproduction Project</h1>
           <p class="card-text">a reproduction project that maps event data to high dynamic range videos using deep neural network</p>
           <div class="row ml-1 mr-1 p-0">
           </div>

@@ -4,7 +4,7 @@
 
 * ~~CV link~~
 
-* change font
+* ~~change font~~
 
 * change theme color
 
