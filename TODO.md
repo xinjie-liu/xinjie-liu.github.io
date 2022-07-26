@@ -1,4 +1,4 @@
-* publications
+* ~~publications~~
 
 * ~~projects refine style~~
 
@@ -6,11 +6,13 @@
 
 * ~~change font~~
 
-* change theme color
+* ~~change theme color~~
 
-* contact information
+* ~~contact information~~
 
-* slightly modify CV
+* ~~slightly modify CV~~
+
+* scrollable first page
 
 * education
 
