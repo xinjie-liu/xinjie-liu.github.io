@@ -14,7 +14,7 @@ This is a model-predictive controller designing project. We designed an MPC cont
 
 The project was along with the course *SC42125 Model Predictive Control* (instructor: Prof. Sergio Grammatico) at the Delft University of Technology. The final grade for this project was 10/10 (top 1 in the class).
 
-![husky_simulation](/assets/img/mpc.gif){: width="600"}
+![husky_simulation](https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/mpc.gif){: width="600"}
 
 ## Paper & Code
 

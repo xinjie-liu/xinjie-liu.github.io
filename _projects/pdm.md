@@ -2,7 +2,7 @@
 layout: page
 title: "Autonomous Delivery"
 description: motion planning and control for an autonomous quadrotor drone
-img: assets/img/rrt.gif
+img: https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/rrt.gif
 importance: 3
 category: past
 ---
@@ -15,9 +15,9 @@ We design a non-linear MPC controller as the local planner, which can avoid loca
 
 The project was along with the course *RO47005 Planning and Decision Making* (instructor: Prof. Javier Alonso-Mora) at the Delft University of Technology. The final grade for this project was 9.5/10 (top 1 in the class).
 
-![husky_simulation](/assets/img/rrt.gif){: width="600"}
+![husky_simulation](https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/rrt.gif){: width="600"}
 
-![husky_simulation](/assets/img/pdm.gif){: width="600"}
+![husky_simulation](https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/pdm.gif){: width="600"}
 
 ## Paper & Code
 

@@ -3,7 +3,7 @@ layout: page
 title: "Reinforcement Learning via Corrective Feedback"
 description: interactive imitation learning research
 permalink: /projects/bachelor_thesis/
-img: assets/img/reacher.gif
+img: https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/reacher.gif
 importance: 5
 category: past
 ---
@@ -14,9 +14,9 @@ This is my bachelor thesis project, where I researched interactive imitation lea
 
 This work was jointly (and mainly) supervised by Prof. Youling Yu at the College of Electronics and Information Engineering and was rated as *Outstanding Bachelor Thesis* at Tongji University, Shanghai.
 
-![husky_simulation](/assets/img/lunarlander.gif){: width="600"}
+![husky_simulation](https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/lunarlander.gif){: width="600"}
 
-![husky_simulation](/assets/img/reacher.gif){: width="600"}
+![husky_simulation](https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/reacher.gif){: width="600"}
 
 ## Thesis
 

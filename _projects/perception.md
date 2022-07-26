@@ -2,7 +2,7 @@
 layout: page
 title: "Multi-Sensor Perception of Intelligent Vehicles"
 description: pedestrian and obstacle detection using multi-sensor information
-img: assets/img/perception.gif
+img: https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/perception.gif
 importance: 4
 category: past
 ---
@@ -13,9 +13,9 @@ In this project, I implemented algorithms for the perception of intelligent vehi
 
 The project was along with the course *RO47005 Machine Perception* (instructor: Prof. Dariu Gavrila) at the Delft University of Technology. The final grade for this project was 9.5/10 (top 2 in the class).
 
-![husky_simulation](/assets/img/perception.gif){: width="600"}
+![husky_simulation](https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/perception.gif){: width="600"}
 
-![husky_simulation](/assets/img/intelligentvehicle.gif){: width="600"}
+![husky_simulation](https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/intelligentvehicle.gif){: width="600"}
 
 
 

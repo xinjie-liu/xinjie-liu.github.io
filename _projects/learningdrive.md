@@ -2,7 +2,7 @@
 layout: page
 title: "Learn Driving Policy from Pixels"
 description: Imitation learning driving policies from image observations
-img: assets/img/learningdrive.gif
+img: https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/learningdrive.gif
 importance: 5
 category: past
 ---

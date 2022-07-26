@@ -2,7 +2,7 @@
 layout: page
 title: "Quadrotor Tracking Control"
 description: quadrotor controllers implementation for tracking tasks
-img: assets/img/quadrotor.gif
+img: https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/quadrotor.gif
 importance: 4
 category: past
 ---
@@ -13,7 +13,7 @@ In this project, we implemented quadrotor control algorithms (linear PD controll
 
 The project was along with the course *RO47002 Robot Dynamics and Control* (instructor: Prof. Martijn Wisse, Prof. Wei Pan et al.) at the Delft University of Technology. The final grade for this project was 10/10 (top 1 in the class).
 
-![husky_simulation](/assets/img/quadrotor.gif){: width="600"}
+![husky_simulation](https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/quadrotor.gif){: width="600"}
 
 ## Paper & Code
 

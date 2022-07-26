@@ -2,7 +2,7 @@
 layout: page
 title: "ScrubBot: Autonomous Field Cleaning"
 description: a robotic solution for cleaning a field where obstacles present
-img: assets/img/Husky_obstacle.gif
+img: https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/Husky_obstacle.gif
 importance: 2
 category: past
 ---
@@ -18,10 +18,10 @@ The project was along with the course *RO47007 Multi-disciplinary Project* at De
 
 
 <!-- {:refdef: style="text-align: center;"} -->
-![husky_obstacle](/assets/img/Husky_obstacle.gif){: width="600"}
+![husky_obstacle](https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/Husky_obstacle.gif){: width="600"}
 <!-- {: refdef} -->
 
-![husky_simulation](/assets/img/husky_simulation.gif){: width="600"}
+![husky_simulation](https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/husky_simulation.gif){: width="600"}
 
 ## Report & Code
 

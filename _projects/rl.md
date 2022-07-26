@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Model-free RL Algorithms Implementation"
-img: assets/img/lunarlander_.gif
+img: https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/lunarlander_.gif
 importance: 2
 category: past
 ---
