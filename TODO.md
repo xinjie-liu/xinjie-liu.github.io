@@ -12,6 +12,8 @@
 
 * ~~slightly modify CV~~
 
+* project page, less gif images
+
 * scrollable first page
 
 * education
