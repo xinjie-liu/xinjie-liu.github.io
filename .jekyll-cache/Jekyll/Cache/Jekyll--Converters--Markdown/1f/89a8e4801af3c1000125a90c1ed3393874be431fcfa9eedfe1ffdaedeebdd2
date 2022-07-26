@@ -1,13 +1,11 @@
-I"Î.<!-- pages/projects.md -->
+I"Ü0<!-- pages/projects.md -->
 <div class="projects">
   <!-- Display categorized projects -->
   <h2 class="category">ongoing</h2>
   <!-- Generate cards for each project -->
-  <div class="grid"><!-- _includes/projects.html -->
-<div class="grid-sizer"></div>
-<div class="grid-item">
-  <a href="/projects/game/">
-      <div class="card hoverable"><figure>
+  <div class="container">
+    <div class="row row-cols-2"><div class="card-item col"><a href="/projects/game/"><div class="card hoverable">
+      <div class="row g-0"><div class="card-img col-md-6"><figure>
 
   <picture>
     
@@ -22,20 +20,19 @@
   </picture>
 
 </figure>
-
-        <div class="card-body">
-          <h1 class="card-title">Dynamic Game-Theoretic Planning</h1>
-          <p class="card-text"></p>
-          <div class="row ml-1 mr-1 p-0">
+</div>
+        <div class="col-md-6"><div class="card-body">
+            <h6 class="card-title">Dynamic Game-Theoretic Planning</h6>
+            <p class="card-text"></p>
+            <div class="row ml-1 mr-1 p-0"></div>
           </div>
         </div>
       </div>
-    </a>
-</div><!-- _includes/projects.html -->
-<div class="grid-sizer"></div>
-<div class="grid-item">
-  <a href="/projects/erf2022/">
-      <div class="card hoverable"><figure>
+    </div>
+  </a>
+</div>
+<div class="card-item col"><a href="/projects/erf2022/"><div class="card hoverable">
+      <div class="row g-0"><div class="card-img col-md-6"><figure>
 
   <picture>
     
@@ -50,24 +47,25 @@
   </picture>
 
 </figure>
-
-        <div class="card-body">
-          <h1 class="card-title">Rapidly learn manipulation tasks by demonstration</h1>
-          <p class="card-text">Hackathon challenge by Franka Emika at ERF2022</p>
-          <div class="row ml-1 mr-1 p-0">
+</div>
+        <div class="col-md-6"><div class="card-body">
+            <h6 class="card-title">Rapidly Learn Manipulation Tasks by Demonstration</h6>
+            <p class="card-text">Hackathon challenge by Franka Emika at ERF2022</p>
+            <div class="row ml-1 mr-1 p-0"></div>
           </div>
         </div>
       </div>
-    </a>
+    </div>
+  </a>
 </div>
+
+    </div>
   </div>
   <h2 class="category">past</h2>
   <!-- Generate cards for each project -->
-  <div class="grid"><!-- _includes/projects.html -->
-<div class="grid-sizer"></div>
-<div class="grid-item">
-  <a href="/projects/mpc/">
-      <div class="card hoverable"><figure>
+  <div class="container">
+    <div class="row row-cols-2"><div class="card-item col"><a href="/projects/mpc/"><div class="card hoverable">
+      <div class="row g-0"><div class="card-img col-md-6"><figure>
 
   <picture>
     
@@ -82,20 +80,19 @@
   </picture>
 
 </figure>
-
-        <div class="card-body">
-          <h1 class="card-title">MPC Designing and Analysis</h1>
-          <p class="card-text">an model predictive control approach design and analysis</p>
-          <div class="row ml-1 mr-1 p-0">
+</div>
+        <div class="col-md-6"><div class="card-body">
+            <h6 class="card-title">MPC Designing and Analysis</h6>
+            <p class="card-text">a model predictive control approach design and analysis</p>
+            <div class="row ml-1 mr-1 p-0"></div>
           </div>
         </div>
       </div>
-    </a>
-</div><!-- _includes/projects.html -->
-<div class="grid-sizer"></div>
-<div class="grid-item">
-  <a href="/projects/husky/">
-      <div class="card hoverable"><figure>
+    </div>
+  </a>
+</div>
+<div class="card-item col"><a href="/projects/husky/"><div class="card hoverable">
+      <div class="row g-0"><div class="card-img col-md-6"><figure>
 
   <picture>
     
@@ -110,20 +107,19 @@
   </picture>
 
 </figure>
-
-        <div class="card-body">
-          <h1 class="card-title">ScrubBot: Autonomous Field Cleaning</h1>
-          <p class="card-text">a robotic solution for cleaning a field where obstacles present</p>
-          <div class="row ml-1 mr-1 p-0">
+</div>
+        <div class="col-md-6"><div class="card-body">
+            <h6 class="card-title">ScrubBot: Autonomous Field Cleaning</h6>
+            <p class="card-text">a robotic solution for cleaning a field where obstacles present</p>
+            <div class="row ml-1 mr-1 p-0"></div>
           </div>
         </div>
       </div>
-    </a>
-</div><!-- _includes/projects.html -->
-<div class="grid-sizer"></div>
-<div class="grid-item">
-  <a href="/projects/rl/">
-      <div class="card hoverable"><figure>
+    </div>
+  </a>
+</div>
+<div class="card-item col"><a href="/projects/rl/"><div class="card hoverable">
+      <div class="row g-0"><div class="card-img col-md-6"><figure>
 
   <picture>
     
@@ -138,20 +134,19 @@
   </picture>
 
 </figure>
-
-        <div class="card-body">
-          <h1 class="card-title">Model-free RL Algorithms Implementation</h1>
-          <p class="card-text"></p>
-          <div class="row ml-1 mr-1 p-0">
+</div>
+        <div class="col-md-6"><div class="card-body">
+            <h6 class="card-title">Model-free RL Algorithms Implementation</h6>
+            <p class="card-text"></p>
+            <div class="row ml-1 mr-1 p-0"></div>
           </div>
         </div>
       </div>
-    </a>
-</div><!-- _includes/projects.html -->
-<div class="grid-sizer"></div>
-<div class="grid-item">
-  <a href="/projects/pdm/">
-      <div class="card hoverable"><figure>
+    </div>
+  </a>
+</div>
+<div class="card-item col"><a href="/projects/pdm/"><div class="card hoverable">
+      <div class="row g-0"><div class="card-img col-md-6"><figure>
 
   <picture>
     
@@ -166,20 +161,19 @@
   </picture>
 
 </figure>
-
-        <div class="card-body">
-          <h1 class="card-title">Autonomous Delivery</h1>
-          <p class="card-text">motion planning and control for an autonomous quadrotor drone</p>
-          <div class="row ml-1 mr-1 p-0">
+</div>
+        <div class="col-md-6"><div class="card-body">
+            <h6 class="card-title">Autonomous Delivery</h6>
+            <p class="card-text">motion planning and control for an autonomous quadrotor drone</p>
+            <div class="row ml-1 mr-1 p-0"></div>
           </div>
         </div>
       </div>
-    </a>
-</div><!-- _includes/projects.html -->
-<div class="grid-sizer"></div>
-<div class="grid-item">
-  <a href="/projects/perception/">
-      <div class="card hoverable"><figure>
+    </div>
+  </a>
+</div>
+<div class="card-item col"><a href="/projects/perception/"><div class="card hoverable">
+      <div class="row g-0"><div class="card-img col-md-6"><figure>
 
   <picture>
     
@@ -194,20 +188,19 @@
   </picture>
 
 </figure>
-
-        <div class="card-body">
-          <h1 class="card-title">Multi-Sensor Perception of Intelligent Vehicles</h1>
-          <p class="card-text">Pedestrian and obstacle detection using multi-sensor information</p>
-          <div class="row ml-1 mr-1 p-0">
+</div>
+        <div class="col-md-6"><div class="card-body">
+            <h6 class="card-title">Multi-Sensor Perception of Intelligent Vehicles</h6>
+            <p class="card-text">pedestrian and obstacle detection using multi-sensor information</p>
+            <div class="row ml-1 mr-1 p-0"></div>
           </div>
         </div>
       </div>
-    </a>
-</div><!-- _includes/projects.html -->
-<div class="grid-sizer"></div>
-<div class="grid-item">
-  <a href="/projects/quadrotor/">
-      <div class="card hoverable"><figure>
+    </div>
+  </a>
+</div>
+<div class="card-item col"><a href="/projects/quadrotor/"><div class="card hoverable">
+      <div class="row g-0"><div class="card-img col-md-6"><figure>
 
   <picture>
     
@@ -222,20 +215,19 @@
   </picture>
 
 </figure>
-
-        <div class="card-body">
-          <h1 class="card-title">Quadrotor Tracking Control</h1>
-          <p class="card-text">quadrotor controllers implementation for tracking tasks</p>
-          <div class="row ml-1 mr-1 p-0">
+</div>
+        <div class="col-md-6"><div class="card-body">
+            <h6 class="card-title">Quadrotor Tracking Control</h6>
+            <p class="card-text">quadrotor controllers implementation for tracking tasks</p>
+            <div class="row ml-1 mr-1 p-0"></div>
           </div>
         </div>
       </div>
-    </a>
-</div><!-- _includes/projects.html -->
-<div class="grid-sizer"></div>
-<div class="grid-item">
-  <a href="/projects/bachelor_thesis/">
-      <div class="card hoverable"><figure>
+    </div>
+  </a>
+</div>
+<div class="card-item col"><a href="/projects/bachelor_thesis/"><div class="card hoverable">
+      <div class="row g-0"><div class="card-img col-md-6"><figure>
 
   <picture>
     
@@ -250,20 +242,19 @@
   </picture>
 
 </figure>
-
-        <div class="card-body">
-          <h1 class="card-title">Reinforcement Learning via Corrective Feedback</h1>
-          <p class="card-text">interactive imitation learning research</p>
-          <div class="row ml-1 mr-1 p-0">
+</div>
+        <div class="col-md-6"><div class="card-body">
+            <h6 class="card-title">Reinforcement Learning via Corrective Feedback</h6>
+            <p class="card-text">interactive imitation learning research</p>
+            <div class="row ml-1 mr-1 p-0"></div>
           </div>
         </div>
       </div>
-    </a>
-</div><!-- _includes/projects.html -->
-<div class="grid-sizer"></div>
-<div class="grid-item">
-  <a href="/projects/learningdrive/">
-      <div class="card hoverable"><figure>
+    </div>
+  </a>
+</div>
+<div class="card-item col"><a href="/projects/learningdrive/"><div class="card hoverable">
+      <div class="row g-0"><div class="card-img col-md-6"><figure>
 
   <picture>
     
@@ -278,20 +269,19 @@
   </picture>
 
 </figure>
-
-        <div class="card-body">
-          <h1 class="card-title">Learn Driving Policy from Pixels</h1>
-          <p class="card-text">Imitation learning driving policies from image observations</p>
-          <div class="row ml-1 mr-1 p-0">
+</div>
+        <div class="col-md-6"><div class="card-body">
+            <h6 class="card-title">Learn Driving Policy from Pixels</h6>
+            <p class="card-text">Imitation learning driving policies from image observations</p>
+            <div class="row ml-1 mr-1 p-0"></div>
           </div>
         </div>
       </div>
-    </a>
-</div><!-- _includes/projects.html -->
-<div class="grid-sizer"></div>
-<div class="grid-item">
-  <a href="https://github.com/Ruben-MR/E2VID-repro-G36/wiki">
-      <div class="card hoverable"><figure>
+    </div>
+  </a>
+</div>
+<div class="card-item col"><a href="https://github.com/Ruben-MR/E2VID-repro-G36/wiki"><div class="card hoverable">
+      <div class="row g-0"><div class="card-img col-md-6"><figure>
 
   <picture>
     
@@ -306,15 +296,18 @@
   </picture>
 
 </figure>
-
-        <div class="card-body">
-          <h1 class="card-title">Event2Video: Reproduction Project</h1>
-          <p class="card-text">a reproduction project that maps event data to high dynamic range videos using deep neural network</p>
-          <div class="row ml-1 mr-1 p-0">
+</div>
+        <div class="col-md-6"><div class="card-body">
+            <h6 class="card-title">Event2Video: Reproduction Project</h6>
+            <p class="card-text">a reproduction project that maps event data to high dynamic range videos using deep neural network</p>
+            <div class="row ml-1 mr-1 p-0"></div>
           </div>
         </div>
       </div>
-    </a>
+    </div>
+  </a>
 </div>
+
+    </div>
   </div></div>
 :ET

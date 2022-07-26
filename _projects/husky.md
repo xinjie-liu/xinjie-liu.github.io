@@ -14,7 +14,7 @@ This is a project in collaboration with the industry. The objective is to cover 
 We built a robotic solution with modules including perception, global path planning, local motion planning and control and state machine. The software is wrapped in ROS framework and tested in simulation and on a real Husky robot. 
 We used only a top-view camera as the sensor for localization and mapping. The global shortest path planning is done by solving travelling salesman problems (TSP) combined with A* algorithm. For local motion planning and control, a non-linear MPC is deployed. 
 
-The project was along with the course *RO47007 Multi-disciplinary Project* at the Delft University of Technology. The final grade for this project was 9.7/10 (top 1 in the class).
+The project was along with the course *RO47007 Multi-disciplinary Project* at Delft University of Technology. The final grade for this project was 9.7/10 (top 1 in the class).
 
 
 <!-- {:refdef: style="text-align: center;"} -->

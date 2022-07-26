@@ -24,7 +24,7 @@ This work was jointly (and mainly) supervised by Prof. Youling Yu at the College
 
 The full-text thesis can be found [here](https://www.researchgate.net/publication/355973551_Interactive_Imitation_Learning_in_Robotics_based_on_Simulations).
 
-Note that this is a translated version just for demonstration purpose, which is not reviewed.
+Note that this is a translated version just for demonstration purposes, which is not reviewed.
 
 ## Supplementary Video
 

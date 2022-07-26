@@ -1,12 +1,16 @@
 * publications
 
-* projects refine style
+* ~~projects refine style~~
 
 * ~~CV link~~
 
 * ~~change font~~
 
 * change theme color
+
+* contact information
+
+* slightly modify CV
 
 * education
 
