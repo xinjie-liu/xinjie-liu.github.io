@@ -13,3 +13,4 @@ Currently, I am working on game-theoretic planning techniques under the supervis
 
 ![husky_simulation](https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/game.gif){: width="600"}
 
+![husky_simulation](https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/highway_inference.gif){: width="600"}
