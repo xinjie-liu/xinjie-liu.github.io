@@ -1,4 +1,4 @@
-I"É<h2 id="news">News</h2>
+I"<h2 id="news">News</h2>
 
 <ul>
   <li><strong>2022-06-30</strong> We won the <a href="https://erf2022.eu/programme/#hackathon">Hackathon</a> challenge at ERF2022! (<a href="https://www.linkedin.com/feed/update/urn:li:activity:6948525659862306816/">Post</a> from the sponsor Franka Emika)</li>
@@ -74,13 +74,13 @@
 
   <picture>
     
-    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/battery.gif-480.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/battery.gif-800.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/battery.gif-1400.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/battery.gif-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/battery.gif-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/battery.gif-1400.webp" />
     
 
     <!-- Fallback to the original file -->
-    <img src="/assets/img/battery.gif" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="example image" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/battery.gif" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="example image" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
 
   </picture>
 

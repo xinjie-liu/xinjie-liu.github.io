@@ -1,4 +1,4 @@
-I"Ã<h2 id="about">About</h2>
+I"_<h2 id="about">About</h2>
 
 <p>This is a motion planning and control project for mobile robots. The objective is to use quadrotor drone robots for autonomous delivery. We realize autonomous navigation by implementing the global path search method RRT*. The path is smoothed by conducting minimum-snap optimization.</p>
 
@@ -6,9 +6,9 @@
 
 <p>The project was along with the course <em>RO47005 Planning and Decision Making</em> (instructor: Prof. Javier Alonso-Mora) at the Delft University of Technology. The final grade for this project was 9.5/10 (top 1 in the class).</p>
 
-<p><img src="/assets/img/rrt.gif" alt="husky_simulation" width="600" /></p>
+<p><img src="https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/rrt.gif" alt="husky_simulation" width="600" /></p>
 
-<p><img src="/assets/img/pdm.gif" alt="husky_simulation" width="600" /></p>
+<p><img src="https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/pdm.gif" alt="husky_simulation" width="600" /></p>
 
 <h2 id="paper--code">Paper &amp; Code</h2>
 
