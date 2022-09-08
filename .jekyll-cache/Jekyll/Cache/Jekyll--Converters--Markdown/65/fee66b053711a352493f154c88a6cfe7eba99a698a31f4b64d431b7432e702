@@ -1,4 +1,4 @@
-I"=<!-- pages/projects.md -->
+I"@=<!-- pages/projects.md -->
 <div class="projects">
   <!-- Display categorized projects -->
   <h2 class="category">ongoing</h2>
@@ -9,13 +9,13 @@
 
   <picture>
     
-    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/game.gif-480.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/game.gif-800.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/game.gif-1400.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/highway_inference.gif-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/highway_inference.gif-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/highway_inference.gif-1400.webp" />
     
 
     <!-- Fallback to the original file -->
-    <img src="https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/game.gif" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/highway_inference.gif" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
 
   </picture>
 
