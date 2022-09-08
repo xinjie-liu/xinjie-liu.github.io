@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Dynamic Game-Theoretic Planning"
-img: https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/game.gif
+img: https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/highway_inference.gif
 importance: 1
 category: ongoing
 ---
