@@ -6,7 +6,7 @@ permalink: /projects/
 nav: true
 nav_order: 1
 # display_categories: [ongoing, past]
-display_categories: ["Research", "Other projects: control, planning, optimization", "Other projects: learning"]
+display_categories: ["Research projects", "Other projects: control, planning, optimization", "Other projects: learning"]
 horizontal: true
 ---
 
