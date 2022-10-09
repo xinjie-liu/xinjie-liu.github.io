@@ -1,0 +1,47 @@
+I"â	<h2 id="about">About</h2>
+
+<p>Currently, I am working on game-theoretic planning techniques under the supervision of <a href="https://www.autonomousrobots.nl/index.html">Prof. Javier Alonso-Mora</a> and <a href="https://lasse-peters.net/">Lasse Peters</a>. The gif images below show examples solved by the solvers that I implemented. In this project, we want to loosen some assumptions in the current research and hopefully offer some interesting results! (no spoiler :blush:)</p>
+
+<p><img src="https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/highway_inference.gif" alt="husky_simulation" width="650" /></p>
+
+<p><img src="https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/game.gif" alt="husky_simulation" width="300" /></p>
+
+<div class="row">
+    <div class="col-sm mt-4 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/champion-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/champion-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/champion-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/champion.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="example image" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-4 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/battery.gif-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/battery.gif-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/battery.gif-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/battery.gif" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="example image" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+:ET

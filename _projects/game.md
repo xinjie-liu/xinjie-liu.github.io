@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Dynamic Game-Theoretic Planning"
-img: https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/highway_inference.gif
+img: https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/jackal.gif
 importance: 1
 category: Research projects
 ---
@@ -13,4 +13,4 @@ Currently, I am working on game-theoretic planning techniques under the supervis
 
 ![husky_simulation](https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/highway_inference.gif){: width="650"}
 
-![husky_simulation](https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/game.gif){: width="300"}
+![husky_simulation](https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/jackal.gif){: width="500"}
