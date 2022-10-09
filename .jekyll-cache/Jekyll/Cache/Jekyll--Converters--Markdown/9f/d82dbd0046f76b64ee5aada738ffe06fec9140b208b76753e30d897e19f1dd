@@ -1,0 +1,8 @@
+I"_<h2 id="about">About</h2>
+
+<p>Currently, I am working on game-theoretic planning techniques with <a href="https://lasse-peters.net/">Lasse Peters</a> and <a href="https://www.autonomousrobots.nl/index.html">Prof. Javier Alonso-Mora</a>. From July to September 2022, I developed a solver for finding generalized Nash equilibrium (GNE) strategies in trajectory games. This is my first research project and the first part of my master’s thesis. I summarized the work in a scientific paper. A preprint version will be available soon.</p>
+
+<p><img src="https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/highway_inference.gif" alt="husky_simulation" width="650" /></p>
+
+<p><img src="https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/jackal.gif" alt="husky_simulation" width="500" /></p>
+:ET
