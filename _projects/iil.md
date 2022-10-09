@@ -4,8 +4,8 @@ title: "Reinforcement Learning via Corrective Feedback"
 description: interactive imitation learning research
 permalink: /projects/bachelor_thesis/
 img: https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/reacher.gif
-importance: 5
-category: past
+importance: 3
+category: "Other projects: learning"
 ---
 
 ## About 

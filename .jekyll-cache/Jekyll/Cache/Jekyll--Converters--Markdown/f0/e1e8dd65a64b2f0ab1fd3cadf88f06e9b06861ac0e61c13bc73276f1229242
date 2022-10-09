@@ -1,0 +1,16 @@
+I"¼<!-- pages/projects.md -->
+<div class="projects">
+  <!-- Display categorized projects -->
+  <h2 class="category">Research</h2>
+  <!-- Generate cards for each project -->
+  <div class="container">
+    <div class="row row-cols-2">
+    </div>
+  </div>
+  <h2 class="category">Course project: control &amp; planning</h2>
+  <!-- Generate cards for each project -->
+  <div class="container">
+    <div class="row row-cols-2">
+    </div>
+  </div></div>
+:ET

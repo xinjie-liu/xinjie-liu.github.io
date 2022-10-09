@@ -3,8 +3,8 @@ layout: page
 title: "Quadrotor Tracking Control"
 description: quadrotor controllers implementation for tracking tasks
 img: https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/quadrotor.gif
-importance: 4
-category: past
+importance: 5
+category: "Other projects: control, planning, optimization"
 ---
 
 ## About

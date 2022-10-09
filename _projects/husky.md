@@ -3,8 +3,8 @@ layout: page
 title: "ScrubBot: Autonomous Field Cleaning"
 description: a robotic solution for cleaning a field where obstacles present
 img: https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/Husky_obstacle.gif
-importance: 2
-category: past
+importance: 3
+category: "Other projects: control, planning, optimization"
 ---
 
 

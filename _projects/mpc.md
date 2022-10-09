@@ -5,7 +5,7 @@ description: a model predictive control approach design and analysis
 # img: assets/img/mpc.gif
 img: https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/mpc.gif
 importance: 1
-category: past
+category: "Other projects: control, planning, optimization"
 ---
 
 ## About 

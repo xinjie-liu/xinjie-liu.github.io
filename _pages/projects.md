@@ -5,7 +5,8 @@ permalink: /projects/
 # description: A growing collection of your cool projects.
 nav: true
 nav_order: 1
-display_categories: [ongoing, past]
+# display_categories: [ongoing, past]
+display_categories: ["Research", "Other projects: control, planning, optimization", "Other projects: learning"]
 horizontal: true
 ---
 

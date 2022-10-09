@@ -3,8 +3,8 @@ layout: page
 title: "Autonomous Delivery"
 description: motion planning and control for an autonomous quadrotor drone
 img: https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/rrt.gif
-importance: 3
-category: past
+importance: 4
+category: "Other projects: control, planning, optimization"
 ---
 
 ## About
