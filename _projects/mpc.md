@@ -22,7 +22,7 @@ The project was along with the course *SC42125 Model Predictive Control* (instru
 
 The code repository can be found [here](https://github.com/xinjie-liu/SafeMPC_ObstacleAvoidance)
 
-The paper can be found [here](https://www.researchgate.net/publication/359879273_Safe_Model_Predictive_Control_Approach_for_Non-holonomic_Mobile_Robots)
+The paper can be found [here](https://arxiv.org/abs/2207.12878)
 
 ## Supplementary Video
 
