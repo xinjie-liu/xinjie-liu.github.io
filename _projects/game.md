@@ -14,4 +14,10 @@ Currently, I am working on game-theoretic planning techniques with [Lasse Peters
 
 ![husky_simulation](https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/highway_inference.gif){: width="650"}
 
+![husky_simulation](/assets/img/highway_dots.png){: width="600"}
+
+<br>
+<br>
+<br>
+
 ![husky_simulation](https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/jackal.gif){: width="500"}
