@@ -1,4 +1,4 @@
-I"Ð<<!-- pages/projects.md -->
+I"Ñ<<!-- pages/projects.md -->
 <div class="projects">
   <!-- Display categorized projects -->
   <h2 class="category">Research projects</h2>
@@ -22,7 +22,7 @@
 </figure>
 </div>
         <div class="col-md-6"><div class="card-body">
-            <h6 class="card-title">Dynamic Game-Theoretic Planning</h6>
+            <h6 class="card-title">Adaptive Game-Theoretic Planning</h6>
             <p class="card-text"></p>
             <div class="row ml-1 mr-1 p-0"></div>
           </div>
