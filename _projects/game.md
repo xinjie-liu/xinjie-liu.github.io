@@ -19,4 +19,6 @@ This is the first project of my master's thesis (June 2022 - October 2022). The 
 
 ## Supplementary Video
 
-<iframe width="880" height="495" src="https://www.youtube.com/watch?v=kVon1kuIvjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kVon1kuIvjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!-- <iframe width="880" height="495" src="https://www.youtube.com/watch?v=kVon1kuIvjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
