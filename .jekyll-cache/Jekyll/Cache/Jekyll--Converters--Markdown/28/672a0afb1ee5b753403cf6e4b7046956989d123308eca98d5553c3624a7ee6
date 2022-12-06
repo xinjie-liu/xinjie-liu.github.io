@@ -1,5 +1,4 @@
-I"�
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I"<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
@@ -9,7 +8,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 <p>Before that, I received my bachelor’s degree with honor in Automotive Engineering from <a href="https://en.tongji.edu.cn/index.htm">Tongji University</a>, Shanghai. During my senior year, I studied as a visiting undergraduate student at <a href="https://www.tugraz.at/en/home/">Graz Univerisity of Technology</a>, Austria. My <a href="/projects/bachelor_thesis/">bachelor’s thesis</a> was on interactive imitation learning of robot tasks, supervised by Prof. Youling Yu at the <a href="https://see-en.tongji.edu.cn/">College of Electronic and Information Engineering</a>. There, my work was rated as <em>Outstanding Bachelor Thesis</em> at Tongji University.</p>
 
-<p><strong>I am working on my master’s thesis and finished the first project from June to October (topics: game-theoretic planning, objective inference, model-based RL). A paper will be submitted and made public very soon. I am looking for a Ph.D. position starting in 2023 Fall.</strong></p>
+<p><strong>I am working on my master’s thesis and finished the first project from June to October (topics: game-theoretic planning, objective inference, model-based RL). A paper has been submitted and is now available on the ‘projects’ page. I am looking for a Ph.D. position starting in 2023 Fall.</strong></p>
 
 <!-- <font color=navy> I am working on my master's thesis (topics: inference, game-theoretic optimization, model-based RL) and expect to graduate in June 2023. A preprint of my work so far will be available soon. I am looking for PhD position starting in 2023 Fall. </font> -->
 
