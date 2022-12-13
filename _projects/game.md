@@ -30,4 +30,10 @@ Many autonomous agents, such as intelligent vehicles, are inherently required to
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kVon1kuIvjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Human-robot interaction experiment:
+
+The robot actively infers the human's intention and tracks the human w.r.t. collision avoidance
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VhqwuZe9V0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <!-- <iframe width="880" height="495" src="https://www.youtube.com/watch?v=kVon1kuIvjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
