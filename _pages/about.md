@@ -36,4 +36,4 @@ Before that, I received my bachelor's degree with honor in Automotive Engineerin
 <br>
 <br>
 
-**Keywords:** control theory, dynamic game theory, optimization, (reinforcement) learning for control
+**Keywords:** optimization, control theory, dynamic game theory, (reinforcement) learning for control
