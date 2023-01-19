@@ -29,7 +29,7 @@ Hello and welcome! I am a Master's student at the Department of [Cognitive Robot
 
 Before that, I received my bachelor's degree with honor in Automotive Engineering from [Tongji University](https://en.tongji.edu.cn/index.htm), Shanghai. During my senior year, I studied as a visiting undergraduate student at [Graz Univerisity of Technology](https://www.tugraz.at/en/home/), Austria. My [bachelor's thesis](/projects/bachelor_thesis/) was on interactive imitation learning of robot tasks, supervised by Prof. Youling Yu at the [College of Electronic and Information Engineering](https://see-en.tongji.edu.cn/). There, my work was rated as *Outstanding Bachelor Thesis* at Tongji University.
 
-**I am working on my master's thesis and finished the first project from June to October (topics: game-theoretic planning, objective inference, model-based RL). A paper has been submitted and is now available on the 'projects' page. I am looking for a Ph.D. position starting in 2023 Fall.**
+**I am working on my master's thesis and finished the first project from June to October (topics: game-theoretic planning, objective inference, model-based RL). I am looking for a Ph.D. position starting in 2023 Fall.**
 
 <!-- <font color=navy> I am working on my master's thesis (topics: inference, game-theoretic optimization, model-based RL) and expect to graduate in June 2023. A preprint of my work so far will be available soon. I am looking for PhD position starting in 2023 Fall. </font> -->
 
