@@ -33,7 +33,6 @@ Before that, I received my bachelor's degree with honor in Automotive Engineerin
 
 <!-- <font color=navy> I am working on my master's thesis (topics: inference, game-theoretic optimization, model-based RL) and expect to graduate in June 2023. A preprint of my work so far will be available soon. I am looking for PhD position starting in 2023 Fall. </font> -->
 
-<br>
-<!-- <br> -->
-
 **Keywords:** optimization, control theory, dynamic game theory, (reinforcement) learning for control
+
+<br>
