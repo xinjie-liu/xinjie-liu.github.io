@@ -1,4 +1,17 @@
-I"@<h2 id="about">About</h2>
+I"�<h2 id="news">News</h2>
+
+<ul>
+  <li>
+    <p><strong>2023-01-24</strong> I gave an invited talk at the <a href="https://saferobotics.princeton.edu/">Safe Robotics Laboratory</a>, Princeton [<a href="https://xinjie-liu.github.io/static/talks/liu2023learning.pdf">slides</a>]. Thanks for the invitation!</p>
+  </li>
+  <li>
+    <p><strong>2022-12-01</strong> We submitted this work and published the <a href="https://arxiv.org/abs/2211.13779">preprint</a> version!</p>
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="about">About</h2>
 
 <p>This is the first project of my master’s thesis (June 2022 - October 2022). The work is with <a href="https://lasse-peters.net/">Lasse Peters</a> and <a href="https://www.autonomousrobots.nl/index.html">Prof. Javier Alonso-Mora</a>. I developed an adaptive game solver that jointly estimates agents’ objectives using gradient and solves for generalized Nash equilibrium strategies in non-cooperative dynamic games for safe interaction.</p>
 
@@ -16,9 +29,15 @@
 
 <p><a href="https://arxiv.org/abs/2211.13779"><img src="/assets/img/liu2023ral_teaser.png" /></a></p>
 
+<h2 id="slides">Slides</h2>
+
+<p><a href="https://xinjie-liu.github.io/static/talks/liu2023learning.pdf"><img src="/assets/img/liu2023learning_cover.png" width="560" height="315" /></a></p>
+
 <h2 id="supplementary-video">Supplementary Video</h2>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YCjbeF9gd8k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f0KJuCC1Xyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/YCjbeF9gd8k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 <!-- Human-robot interaction experiment:
 
@@ -27,4 +46,5 @@ The robot actively infers the human's intention and tracks the human w.r.t. coll
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VhqwuZe9V0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 <!-- <iframe width="880" height="495" src="https://www.youtube.com/watch?v=kVon1kuIvjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+
 :ET

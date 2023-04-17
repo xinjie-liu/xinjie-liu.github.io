@@ -9,6 +9,8 @@ category: Research projects
 
 ## News
 
+* **2023-04-17** This work has been accepted at the *IEEE Robotics and Automation Letters (RA-L)* and will be presented at IROS 2023. See you in Detroit!
+
 * **2023-01-24** I gave an invited talk at the [Safe Robotics Laboratory](https://saferobotics.princeton.edu/), Princeton \[[slides](https://xinjie-liu.github.io/static/talks/liu2023learning.pdf)\]. Thanks for the invitation!
 
 * **2022-12-01** We submitted this work and published the [preprint](https://arxiv.org/abs/2211.13779) version!
