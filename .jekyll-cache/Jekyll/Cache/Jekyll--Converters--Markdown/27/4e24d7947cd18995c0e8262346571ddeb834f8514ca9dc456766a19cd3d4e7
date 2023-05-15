@@ -1,0 +1,14 @@
+I"\<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+
+Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
+
+<p>Hello and welcome! I am a Master’s student at the <a href="https://www.tudelft.nl/en/">Delft University of Technology</a>. My research interest centers around mathematical programming, game theory, controls, and learning. Feel free to check out my projects and reach out if you are interested!</p>
+
+<p>Before that, I received my bachelor’s degree with honor in Automotive Engineering from <a href="https://en.tongji.edu.cn/index.htm">Tongji University</a>, Shanghai. During my senior year, I studied as a visiting undergraduate student at <a href="https://www.tugraz.at/en/home/">Graz Univerisity of Technology</a>, Austria.</p>
+
+<p><strong>Keywords:</strong> optimization, control theory, dynamic game theory, (reinforcement) learning for control</p>
+
+<p><br /></p>
+:ET
