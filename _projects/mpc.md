@@ -16,12 +16,6 @@ The project was along with the course *SC42125 Model Predictive Control* (instru
 
 ![husky_simulation](https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/mpc.gif){: width="600"}
 
-## Paper & Code
-
-The code repository can be found [here](https://github.com/xinjie-liu/SafeMPC_ObstacleAvoidance)
-
-The paper can be found [here](https://arxiv.org/abs/2207.12878)
-
 ## Supplementary Video
 
 <iframe width="880" height="495" src="https://www.youtube.com/embed/nYDxWkKvzZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
