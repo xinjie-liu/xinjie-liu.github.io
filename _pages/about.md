@@ -26,7 +26,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 Hello and welcome! I am a Master's student at the [Delft University of Technology](https://www.tudelft.nl/en/). Feel free to check out my projects and reach out if you are interested!
 
-I received my bachelor's degree with honor in Automotive Engineering from [Tongji University](https://en.tongji.edu.cn/index.htm), Shanghai. During my senior year, I studied as a visiting undergraduate student at [Graz Univerisity of Technology](https://www.tugraz.at/en/home/), Austria. 
+Prior to TU Delft, I received my bachelor's degree with honor in Automotive Engineering from [Tongji University](https://en.tongji.edu.cn/index.htm), Shanghai. During my senior year, I studied as a visiting undergraduate student at [Graz Univerisity of Technology](https://www.tugraz.at/en/home/), Austria. 
 
 <!-- **Keywords:** optimization, control theory, dynamic game theory, (reinforcement) learning for control -->
 
