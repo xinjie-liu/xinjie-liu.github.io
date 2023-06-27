@@ -19,7 +19,7 @@ category: Research projects
 
 ## About 
 
-This is the first project of my master's thesis (June 2022 - October 2022). The work is with [Lasse Peters](https://lasse-peters.net/) and [Prof. Javier Alonso-Mora](https://www.autonomousrobots.nl/index.html). I developed an adaptive game solver that jointly estimates agents' objectives using gradient and solves for generalized Nash equilibrium strategies in non-cooperative dynamic games for safe interaction.
+This is the first project of my master's thesis. The work is with [Lasse Peters](https://lasse-peters.net/) and [Prof. Javier Alonso-Mora](https://www.autonomousrobots.nl/index.html). I developed an adaptive game solver that jointly estimates agents' objectives using gradient and solves for generalized Nash equilibrium strategies in non-cooperative dynamic games for safe interaction.
 
 ## Abstract
 
