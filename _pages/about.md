@@ -32,6 +32,6 @@ Before that, I received my bachelor's degree with honor in Automotive Engineerin
 <!-- **I am working on my master's thesis and finished the first project from June to October 2022 (topics: game-theoretic planning, objective inference, model-based RL), which is available on the 'projects' page.** -->
 
 
-**Keywords:** optimization, control theory, dynamic game theory, (reinforcement) learning for control
+**Keywords:** robotics, optimization, control theory, dynamic game theory, (reinforcement) learning for control
 
 <br>
