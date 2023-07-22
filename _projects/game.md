@@ -42,7 +42,10 @@ Many autonomous agents, such as intelligent vehicles, are inherently required to
 ## Paper
 
 
-<a href ="https://arxiv.org/abs/2211.13779"><img src="/assets/img/liu2023ral_teaser.png"></a>
+<!-- <a href ="https://arxiv.org/abs/2211.13779"><img src="/assets/img/liu2023ral_teaser.png"></a> -->
+
+<a href ="https://ieeexplore.ieee.org/document/10137879"><img src="/assets/img/liu2023ral_teaser.png"></a>
+
 
 ## Code
 
