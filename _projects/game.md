@@ -50,7 +50,7 @@ Many autonomous agents, such as intelligent vehicles, are inherently required to
 
 ## Slides
 
-<a href ="https://xinjie-liu.github.io/static/talks/Xinjie2023TUD.pdf"><img src="/assets/img/Xinjie2023TUD-1.pdf" width = "560" height = "315"></a>
+<a href ="https://xinjie-liu.github.io/static/talks/Xinjie2023TUD.pdf"><img src="/assets/img/Xinjie2023TUD-1.png" width = "560" height = "315"></a>
 
 ## Supplementary Video
 
