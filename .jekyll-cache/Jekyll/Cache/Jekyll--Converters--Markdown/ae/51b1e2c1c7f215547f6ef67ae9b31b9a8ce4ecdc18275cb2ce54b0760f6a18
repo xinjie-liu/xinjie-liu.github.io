@@ -1,6 +1,18 @@
-I"»<h2 id="news">News</h2>
+I"¤<h2 id="news">News</h2>
 
 <ul>
+  <li>
+    <p><strong>2023-07-10</strong> Graduated from TU Delft! I successfully defended my thesis and obtained my MSc degree with Cum Laude distinction in Robotics [<a href="https://xinjie-liu.github.io/static/talks/Xinjie2023TUD.pdf">slides</a>]!</p>
+  </li>
+  <li>
+    <p><strong>2023-07-05</strong> I gave a talk at the <a href="https://clearoboticslab.github.io/">Control and Learning for Autonomous Robotics (CLeAR) Lab</a>, UT Austin!</p>
+  </li>
+  <li>
+    <p><strong>2023-06-06</strong> The journal article of this work has been published and is available on <a href="https://ieeexplore.ieee.org/document/10137879?source=authoralert">IEEE Xplore</a>!</p>
+  </li>
+  <li>
+    <p><strong>2023-05-23</strong> We published a <a href="https://github.com/JuliaGameTheoreticPlanning/MCPTrajectoryGameSolver.jl">solver</a> implementation for this work!</p>
+  </li>
   <li>
     <p><strong>2023-04-17</strong> This work has been accepted at the <em>IEEE Robotics and Automation Letters (RA-L)</em> and will be presented at IROS 2023. See you in Detroit!</p>
   </li>
@@ -32,9 +44,15 @@
 
 <p><a href="https://arxiv.org/abs/2211.13779"><img src="/assets/img/liu2023ral_teaser.png" /></a></p>
 
+<h2 id="code">Code</h2>
+
+<ul>
+  <li><a href="https://github.com/JuliaGameTheoreticPlanning/MCPTrajectoryGameSolver.jl">Solver</a></li>
+</ul>
+
 <h2 id="slides">Slides</h2>
 
-<p><a href="https://xinjie-liu.github.io/static/talks/liu2023learning.pdf"><img src="/assets/img/liu2023learning_cover.png" width="560" height="315" /></a></p>
+<p><a href="https://xinjie-liu.github.io/static/talks/Xinjie2023TUD.pdf"><img src="/assets/img/Xinjie2023TUD-1.pdf" width="560" height="315" /></a></p>
 
 <h2 id="supplementary-video">Supplementary Video</h2>
 

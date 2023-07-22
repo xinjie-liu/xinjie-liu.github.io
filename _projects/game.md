@@ -9,6 +9,14 @@ category: Research projects
 
 ## News
 
+* **2023-07-10** Graduated from TU Delft! I successfully defended my thesis and obtained my MSc degree with Cum Laude distinction in Robotics \[[slides](https://xinjie-liu.github.io/static/talks/Xinjie2023TUD.pdf)\]! 
+
+* **2023-07-05** I gave a talk at the [Control and Learning for Autonomous Robotics (CLeAR) Lab](https://clearoboticslab.github.io/), UT Austin!  
+
+* **2023-06-06** The journal article of this work has been published and is available on [IEEE Xplore](https://ieeexplore.ieee.org/document/10137879?source=authoralert)!
+
+* **2023-05-23** We published a [solver](https://github.com/JuliaGameTheoreticPlanning/MCPTrajectoryGameSolver.jl) implementation for this work!
+
 * **2023-04-17** This work has been accepted at the *IEEE Robotics and Automation Letters (RA-L)* and will be presented at IROS 2023. See you in Detroit!
 
 * **2023-01-24** I gave an invited talk at the [Safe Robotics Laboratory](https://saferobotics.princeton.edu/), Princeton \[[slides](https://xinjie-liu.github.io/static/talks/liu2023learning.pdf)\]. Thanks for the invitation!
@@ -36,13 +44,19 @@ Many autonomous agents, such as intelligent vehicles, are inherently required to
 
 <a href ="https://arxiv.org/abs/2211.13779"><img src="/assets/img/liu2023ral_teaser.png"></a>
 
+## Code
+
+* [Solver](https://github.com/JuliaGameTheoreticPlanning/MCPTrajectoryGameSolver.jl)
+
 ## Slides
 
-<a href ="https://xinjie-liu.github.io/static/talks/liu2023learning.pdf"><img src="/assets/img/liu2023learning_cover.png" width = "560" height = "315"></a>
+<a href ="https://xinjie-liu.github.io/static/talks/Xinjie2023TUD.pdf"><img src="/assets/img/Xinjie2023TUD-1.pdf" width = "560" height = "315"></a>
 
 ## Supplementary Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f0KJuCC1Xyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/YCjbeF9gd8k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
