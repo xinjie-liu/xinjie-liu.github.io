@@ -1,0 +1,20 @@
+I"‰<h2 id="about">About</h2>
+
+<p>This is a model-predictive controller designing project. We designed an MPC controller that enables non-holonomic mobile robots to avoid static and dynamic obstacles. We linearized system dynamics along the reference trajectory. For obstacle avoidance, we proposed a constraint in velocity-space and showed its effectiveness. Furthermore, we proved that the time-varying system is stable in a Lyapunov sense.</p>
+
+<p>The project was along with the course <em>SC42125 Model Predictive Control</em> (instructor: Prof. Sergio Grammatico) at the Delft University of Technology. The final grade for this project was 10/10 (top 1 in the class).</p>
+
+<p><img src="https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/mpc.gif" alt="husky_simulation" width="600" /></p>
+
+<h2 id="paper--code">Paper &amp; Code</h2>
+
+<!-- TODO: cool responsive image -->
+
+<p>The code repository can be found <a href="https://github.com/xinjie-liu/SafeMPC_ObstacleAvoidance">here</a></p>
+
+<p>The paper can be found <a href="https://arxiv.org/abs/2207.12878">here</a></p>
+
+<h2 id="supplementary-video">Supplementary Video</h2>
+
+<iframe width="880" height="495" src="https://www.youtube.com/embed/nYDxWkKvzZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+:ET
