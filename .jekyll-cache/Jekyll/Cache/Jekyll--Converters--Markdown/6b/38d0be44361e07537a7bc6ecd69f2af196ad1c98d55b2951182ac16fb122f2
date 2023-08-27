@@ -1,4 +1,4 @@
-I"�<h2 id="news">News</h2>
+I"�<h2 id="news">News</h2>
 
 <ul>
   <li>
@@ -28,7 +28,7 @@
 
 <h2 id="about">About</h2>
 
-<p>This is the first project of my master’s thesis (June 2022 - October 2022). The work is with <a href="https://lasse-peters.net/">Lasse Peters</a> and <a href="https://www.autonomousrobots.nl/index.html">Prof. Javier Alonso-Mora</a>. I developed an adaptive game solver that jointly estimates agents’ objectives using gradient and solves for generalized Nash equilibrium strategies in non-cooperative dynamic games for safe interaction.</p>
+<p>This is the first project of my master’s thesis. The work is with <a href="https://lasse-peters.net/">Lasse Peters</a> and <a href="https://www.autonomousrobots.nl/index.html">Prof. Javier Alonso-Mora</a>. I developed an adaptive game solver that jointly estimates agents’ objectives using gradient and solves for generalized Nash equilibrium strategies in non-cooperative dynamic games for safe interaction.</p>
 
 <!-- ![husky_simulation](https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/highway_inference.gif){: width="650"}
 
@@ -42,7 +42,9 @@
 
 <h2 id="paper">Paper</h2>
 
-<p><a href="https://arxiv.org/abs/2211.13779"><img src="/assets/img/liu2023ral_teaser.png" /></a></p>
+<!-- <a href ="https://arxiv.org/abs/2211.13779"><img src="/assets/img/liu2023ral_teaser.png"></a> -->
+
+<p><a href="https://ieeexplore.ieee.org/document/10137879"><img src="/assets/img/liu2023ral_teaser.png" /></a></p>
 
 <h2 id="code">Code</h2>
 
@@ -52,7 +54,7 @@
 
 <h2 id="slides">Slides</h2>
 
-<p><a href="https://xinjie-liu.github.io/static/talks/Xinjie2023TUD.pdf"><img src="/assets/img/Xinjie2023TUD-1.pdf" width="560" height="315" /></a></p>
+<p><a href="https://xinjie-liu.github.io/static/talks/Xinjie2023TUD.pdf"><img src="/assets/img/Xinjie2023TUD-1.png" width="560" height="315" /></a></p>
 
 <h2 id="supplementary-video">Supplementary Video</h2>
 
