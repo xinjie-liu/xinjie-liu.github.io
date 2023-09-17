@@ -15,8 +15,6 @@ category: Research projects
 
 * **2023-06-06** The journal article of this work has been published and is available on [IEEE Xplore](https://ieeexplore.ieee.org/document/10137879?source=authoralert)!
 
-* **2023-05-23** We published a [solver](https://github.com/JuliaGameTheoreticPlanning/MCPTrajectoryGameSolver.jl) implementation for this work!
-
 * **2023-04-17** This work has been accepted at the *IEEE Robotics and Automation Letters (RA-L)* and will be presented at IROS 2023. See you in Detroit!
 
 * **2023-01-24** I gave an invited talk at the [Safe Robotics Laboratory](https://saferobotics.princeton.edu/), Princeton \[[slides](https://xinjie-liu.github.io/static/talks/liu2023learning.pdf)\]. Thanks for the invitation!
@@ -27,7 +25,7 @@ category: Research projects
 
 ## About 
 
-This is the first project of my master's thesis. The work is with [Lasse Peters](https://lasse-peters.net/) and [Prof. Javier Alonso-Mora](https://www.autonomousrobots.nl/index.html). I developed an adaptive game solver that jointly estimates agents' objectives using gradient and solves for generalized Nash equilibrium strategies in non-cooperative dynamic games for safe interaction.
+The work is with [Lasse Peters](https://lasse-peters.net/) and [Prof. Javier Alonso-Mora](https://www.autonomousrobots.nl/index.html). I developed an adaptive game solver that jointly estimates agents' objectives using gradient and solves for generalized Nash equilibrium strategies in non-cooperative dynamic games for safe interaction.
 
 <!-- ![husky_simulation](https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/highway_inference.gif){: width="650"}
 
@@ -46,10 +44,24 @@ Many autonomous agents, such as intelligent vehicles, are inherently required to
 
 <a href ="https://ieeexplore.ieee.org/document/10137879"><img src="/assets/img/liu2023ral_teaser.png"></a>
 
+```
+@article{liu2022learning,
+  title={Learning to Play Trajectory Games Against Opponents with Unknown Objectives},
+  author={Liu, Xinjie and Peters, Lasse and Alonso-Mora, Javier},
+  journal={IEEE Robotics and Automation Letters (RA-L)},
+  year={2023}
+}
+```
+
+## Poster
+
+<a href ="https://xinjie-liu.github.io/assets/pdf/Liu2023learningPoster(full).pdf"><img src="https://xinjie-liu.github.io/assets/img/liu2023ral_poster.png"></a>
 
 ## Code
 
-* [Solver](https://github.com/JuliaGameTheoreticPlanning/MCPTrajectoryGameSolver.jl)
+* [The original solver implementation used in this work and experiment code](https://github.com/xinjie-liu/DifferentiableAdaptiveGames.jl)
+
+* [A more optimized implementation of the solver.](https://github.com/JuliaGameTheoreticPlanning/MCPTrajectoryGameSolver.jl)
 
 ## Slides
 
