@@ -25,7 +25,7 @@ category: Research projects
 
 ## About 
 
-The work is with [Lasse Peters](https://lasse-peters.net/) and [Prof. Javier Alonso-Mora](https://www.autonomousrobots.nl/index.html). I developed an adaptive game solver that jointly estimates agents' objectives using gradient and solves for generalized Nash equilibrium strategies in non-cooperative dynamic games for safe interaction.
+The work is with [Lasse Peters](https://lasse-peters.net/) and [Prof. Javier Alonso-Mora](https://www.autonomousrobots.nl/index.html). I developed an adaptive, differentiable game solver that jointly estimates agents' objectives using gradient and solves for generalized Nash equilibrium strategies in non-cooperative dynamic games for safe interaction.
 
 <!-- ![husky_simulation](https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/highway_inference.gif){: width="650"}
 
