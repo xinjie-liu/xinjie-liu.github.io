@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Adaptive Game-Theoretic Planning"
+title: "Differentiable Adaptive Game-Theoretic Planner"
 img: assets/img/highway_cover.png
 description: Adaptive game-theoretic planning enabled by a differentiable game solver
 importance: 1
