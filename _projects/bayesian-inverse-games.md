@@ -2,7 +2,7 @@
 layout: page
 title: "Bayesian Inverse Games"
 img: assets/img/bayesian-inverse-games-partial.png
-description: 
+description: Multi-modal distribution inference, variational inference, differentiable programming
 importance: 1
 category: Research projects
 ---
