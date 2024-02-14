@@ -45,12 +45,15 @@ Many autonomous agents, such as intelligent vehicles, are inherently required to
 <a href ="https://ieeexplore.ieee.org/document/10137879"><img src="/assets/img/liu2023ral_teaser.png"></a>
 
 ```
-@article{liu2022learning,
-  title={Learning to Play Trajectory Games Against Opponents with Unknown Objectives},
+@article{liu2023learning,
   author={Liu, Xinjie and Peters, Lasse and Alonso-Mora, Javier},
-  journal={IEEE Robotics and Automation Letters (RA-L)},
-  year={2023}
-}
+  journal={IEEE Robotics and Automation Letters}, 
+  title={Learning to Play Trajectory Games Against Opponents With Unknown Objectives}, 
+  year={2023},
+  volume={8},
+  number={7},
+  pages={4139-4146},
+  doi={10.1109/LRA.2023.3280809}}
 ```
 
 ## Code
