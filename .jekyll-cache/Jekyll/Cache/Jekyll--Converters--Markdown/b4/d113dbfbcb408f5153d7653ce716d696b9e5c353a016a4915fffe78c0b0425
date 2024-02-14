@@ -1,4 +1,4 @@
-I"¨A<!-- pages/projects.md -->
+I"€A<!-- pages/projects.md -->
 <div class="projects">
   <!-- Display categorized projects -->
   <h2 class="category">Research projects</h2>
@@ -9,21 +9,21 @@
 
   <picture>
     
-    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/highway_cover-480.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/highway_cover-800.webp" />
-    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/highway_cover-1400.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/bayesian-inverse-games-full-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/bayesian-inverse-games-full-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/bayesian-inverse-games-full-1400.webp" />
     
 
     <!-- Fallback to the original file -->
-    <img src="/assets/img/highway_cover.png" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+    <img src="/assets/img/bayesian-inverse-games-full.png" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
 
   </picture>
 
 </figure>
 </div>
         <div class="col-md-6"><div class="card-body">
-            <h6 class="card-title">Differentiable Adaptive Game-Theoretic Planner</h6>
-            <p class="card-text">Adaptive game-theoretic planning enabled by a differentiable game solver</p>
+            <h6 class="card-title">Bayesian Inverse Games</h6>
+            <p class="card-text"></p>
             <div class="row ml-1 mr-1 p-0"></div>
           </div>
         </div>
