@@ -1,4 +1,4 @@
-I"ŒA<!-- pages/projects.md -->
+I"ìA<!-- pages/projects.md -->
 <div class="projects">
   <!-- Display categorized projects -->
   <h2 class="category">Research projects</h2>
@@ -23,7 +23,7 @@
 </div>
         <div class="col-md-6"><div class="card-body">
             <h6 class="card-title">Bayesian Inverse Games</h6>
-            <p class="card-text"></p>
+            <p class="card-text">Multi-modal distribution inference, uncertainty, variational methods, differentiable programming</p>
             <div class="row ml-1 mr-1 p-0"></div>
           </div>
         </div>
