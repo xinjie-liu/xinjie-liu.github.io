@@ -36,6 +36,10 @@ When multiple agents interact in a common environment, each agent’s actions im
 }
 ``` -->
 
+## Poster
+
+<a href ="https://xinjie-liu.github.io/assets/pdf/liu2024auto.pdf"><img src="https://xinjie-liu.github.io/assets/img/liu2024auto.png" width = "560" height = "396"></a>
+
 ## Code
 
 <!-- * [The original solver implementation used in this work and experiment code](https://github.com/xinjie-liu/DifferentiableAdaptiveGames.jl)
