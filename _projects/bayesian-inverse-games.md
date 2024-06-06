@@ -61,8 +61,5 @@ When multiple agents interact in a common environment, each agent’s actions im
 
 ## Supplementary Video
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-PPLPH_yfmY?si=bdf5FWgP7nKqYMmp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hjb2GqbNIIE?si=5wr9hPFjPWe9RSZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
