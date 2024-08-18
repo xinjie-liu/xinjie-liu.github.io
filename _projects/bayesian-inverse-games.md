@@ -9,8 +9,7 @@ category: Research projects
 
 ## News
 
-This work was accepted to WAFR 2024. See you in Chicago!
-<!-- * **2022-12-01** We submitted this work and published the [preprint](https://arxiv.org/abs/2211.13779) version! --> 
+* **2024-08-17** This work was accepted to WAFR 2024. See you in Chicago!
 
 ---
 
