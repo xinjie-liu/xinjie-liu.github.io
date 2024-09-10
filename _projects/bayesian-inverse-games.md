@@ -23,7 +23,7 @@ When multiple agents interact in a common environment, each agent’s actions im
 
 ## Paper
 
-[Preprint](https://arxiv.org/abs/2402.08902)
+<a href ="https://arxiv.org/abs/2402.08902"><img src="/assets/img/liu2024wafr_teaser.png"></a>
 
 <!-- <a href ="https://ieeexplore.ieee.org/document/10137879"><img src="/assets/img/liu2023ral_teaser.png"></a> -->
 
