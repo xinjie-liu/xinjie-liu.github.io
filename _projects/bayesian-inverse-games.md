@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Auto-Encoding Bayesian Inverse Games"
-img: assets/img/bayesian-inverse-games-partial.png
+img: assets/img/liu2024wafr_demo.gif
 description: Multi-modal distribution inference, uncertainty, variational methods, differentiable programming
 importance: 1
 category: Research projects
@@ -21,6 +21,10 @@ TL;DR: We propose a method for tractable inference of unknown parameters in nonc
 
 When multiple agents interact in a common environment, each agent’s actions impact others’ future decisions, and noncooperative dynamic games naturally capture this coupling. In interactive motion planning, however, agents typically do not have access to a complete model of the game, e.g., due to unknown objectives of other players. Therefore, we consider the inverse game problem, in which some properties of the game are unknown a priori and must be inferred from observations. Existing maximum likelihood estimation (MLE) approaches to solve inverse games provide only point estimates of unknown parameters without quantifying uncertainty, and perform poorly when many parameter values explain the observed behavior. To address these limitations, we take a Bayesian perspective and construct posterior distributions of game parameters. To render inference tractable, we employ a variational autoencoder (VAE) with an embedded differentiable game solver. This structured VAE can be trained from an unlabeled dataset of observed interactions, naturally handles continuous, multi-modal distributions, and supports efficient sampling from the inferred posteriors without computing game solutions at runtime. Extensive evaluations in simulated driving scenarios demonstrate that the proposed approach successfully learns the prior and posterior objective distributions, provides more accurate objective estimates than MLE baselines, and facilitates safer and more efficient game-theoretic motion planning.
 
+<center>
+  <img src="https://xinjie-liu.github.io/assets/img/liu2024wafr_demo.gif" alt="wafr demo" width="350" height="350">
+</center>
+
 ## Paper
 
 <a href ="https://arxiv.org/abs/2402.08902"><img src="/assets/img/liu2024wafr_teaser.png"></a>
@@ -39,6 +43,8 @@ When multiple agents interact in a common environment, each agent’s actions im
 ## Poster
 
 <a href ="https://xinjie-liu.github.io/assets/pdf/liu2024auto.pdf"><img src="https://xinjie-liu.github.io/assets/img/liu2024auto.png" width = "560" height = "396"></a>
+
+
 
 ## Code
 
