@@ -9,7 +9,11 @@ category: Research projects
 
 ## News
 
+* **2024-09-10** We published the [code](https://github.com/xinjie-liu/AutoEncodingBayesianInverseGames.jl) for this work.
+
 * **2024-08-17** This work was accepted to WAFR 2024. See you in Chicago!
+
+
 
 ---
 
@@ -48,6 +52,7 @@ When multiple agents interact in a common environment, each agent’s actions im
 
 ## Code
 
+[Repository Link](https://github.com/xinjie-liu/AutoEncodingBayesianInverseGames.jl)
 <!-- * [The original solver implementation used in this work and experiment code](https://github.com/xinjie-liu/DifferentiableAdaptiveGames.jl)
 
 * [A more optimized implementation of the solver.](https://github.com/JuliaGameTheoreticPlanning/MCPTrajectoryGameSolver.jl) -->
