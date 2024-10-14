@@ -53,9 +53,7 @@ When multiple agents interact in a common environment, each agent’s actions im
 ## Code
 
 [Repository Link](https://github.com/xinjie-liu/AutoEncodingBayesianInverseGames.jl)
-<!-- * [The original solver implementation used in this work and experiment code](https://github.com/xinjie-liu/DifferentiableAdaptiveGames.jl)
 
-* [A more optimized implementation of the solver.](https://github.com/JuliaGameTheoreticPlanning/MCPTrajectoryGameSolver.jl) -->
 
 <!-- ## Poster -->
 
