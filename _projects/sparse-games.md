@@ -3,7 +3,7 @@ layout: page
 title: "Sparse Policies in Noncooperative Games"
 img: assets/img/sparse-games.png
 description: Information sparsity, regularized dynamic programming, feedback Nash equilibrium
-importance: 1
+importance: 3
 category: Research projects
 ---
 
