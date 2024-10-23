@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Sparse Policies in Noncooperative Games"
-img: assets/img/bayesian-inverse-games-partial.png
+img: assets/img/sparse-games.png
 description: Information sparsity, regularized dynamic programming, feedback Nash equilibrium
 importance: 1
 category: Research projects
@@ -68,6 +68,8 @@ Common feedback strategies in multi-agent dynamic games require all players’ s
 
 
 ## Supplementary Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2bYznyVd3lU?si=la8QI-ozSD7aB_cF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/hjb2GqbNIIE?si=5wr9hPFjPWe9RSZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 
