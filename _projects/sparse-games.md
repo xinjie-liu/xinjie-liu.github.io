@@ -30,6 +30,8 @@ Common feedback strategies in multi-agent dynamic games require all players’ s
 
 ## Paper
 
+<a href ="https://arxiv.org/pdf/2410.16441"><img src="/assets/img/sparse_games_teaser.png"></a>
+
 <!-- <a href ="https://arxiv.org/abs/2402.08902"><img src="/assets/img/liu2024wafr_teaser.png"></a> -->
 
 <!-- <a href ="https://ieeexplore.ieee.org/document/10137879"><img src="/assets/img/liu2023ral_teaser.png"></a> -->
