@@ -1,10 +1,91 @@
-I"ÏA<!-- pages/projects.md -->
+I"ÇO<!-- pages/projects.md -->
 <div class="projects">
   <!-- Display categorized projects -->
   <h2 class="category">Research projects</h2>
   <!-- Generate cards for each project -->
   <div class="container">
-    <div class="row row-cols-2"><div class="card-item col"><a href="/projects/bayesian-inverse-games/"><div class="card hoverable">
+    <div class="row row-cols-2"><div class="card-item col"><a href="/projects/sparse-games/"><div class="card hoverable">
+      <div class="row g-0"><div class="card-img col-md-6"><figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/sparse-games-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/sparse-games-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/sparse-games-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/sparse-games.png" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+</div>
+        <div class="col-md-6"><div class="card-body">
+            <h6 class="card-title">Sparse Policies in Noncooperative Games</h6>
+            <p class="card-text">Information sparsity, regularized dynamic programming, feedback Nash equilibrium</p>
+            <div class="row ml-1 mr-1 p-0"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+<div class="card-item col"><a href="https://arxiv.org/abs/2406.03565"><div class="card hoverable">
+      <div class="row g-0"><div class="card-img col-md-6"><figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/gan_comparison-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/gan_comparison-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/gan_comparison-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/gan_comparison.png" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+</div>
+        <div class="col-md-6"><div class="card-body">
+            <h6 class="card-title">Second-Order Algorithms for Zero-Sum Nash Games</h6>
+            <p class="card-text">Second-order algorithms that provably only converge to strict Nash equilibria</p>
+            <div class="row ml-1 mr-1 p-0"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+<div class="card-item col"><a href="https://arxiv.org/abs/2406.03565"><div class="card hoverable">
+      <div class="row g-0"><div class="card-img col-md-6"><figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/gan_comparison-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/gan_comparison-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/gan_comparison-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/gan_comparison.png" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+</div>
+        <div class="col-md-6"><div class="card-body">
+            <h6 class="card-title">Second-Order Algorithms for Zero-Sum Nash Games</h6>
+            <p class="card-text">Second-order algorithms that provably only converge to strict Nash equilibria</p>
+            <div class="row ml-1 mr-1 p-0"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+<div class="card-item col"><a href="/projects/bayesian-inverse-games/"><div class="card hoverable">
       <div class="row g-0"><div class="card-img col-md-6"><figure>
 
   <picture>
@@ -22,7 +103,7 @@
 </figure>
 </div>
         <div class="col-md-6"><div class="card-body">
-            <h6 class="card-title">Bayesian Inverse Games</h6>
+            <h6 class="card-title">Auto-Encoding Bayesian Inverse Games</h6>
             <p class="card-text">Multi-modal distribution inference, uncertainty, variational methods, differentiable programming</p>
             <div class="row ml-1 mr-1 p-0"></div>
           </div>
