@@ -35,6 +35,6 @@ Hello and welcome! I am a second-year Ph.D. student in the [Department of Electr
 
 I obtained a master's degree (the highest cum laude distinction) in Robotics from the [Department of Cognitive Robotics (CoR)](https://www.tudelft.nl/3me/over/afdelingen/cognitive-robotics-cor) at the [Delft University of Technology](https://www.tudelft.nl/en/), Netherlands, where I was very fortunate to be advised by Prof. [Javier Alonso-Mora](https://www.autonomousrobots.nl/). My master's thesis was on game-theoretic motion planning for multi-agent systems. Before that, I received my bachelor's degree in Automotive Engineering from [Tongji University](https://en.tongji.edu.cn/p/#/), Shanghai. During my senior year, I studied as a visiting undergraduate student at the [Graz Univerisity of Technology](https://www.tugraz.at/en/home/), Austria. 
 
-**Keywords:** robotics, optimization, control theory, dynamic game theory, reinforcement learning
+**Keywords:** artificial intelligence, reinforcement learning, dynamic games, optimization, robotics
 
 <br>
