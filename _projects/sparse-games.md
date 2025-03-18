@@ -20,6 +20,9 @@ category: Research projects
 
 TL;DR: We propose a dynamic programming approach for computing sparse feedback policies that selectively depend on a subset of agents in noncooperative games. We prove the convergence of the approach and show the advantages of employing sparse policies.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AouomX7v9WE?si=EJ8KiuBWxCamfYRG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ## Abstract
 
 Common feedback strategies in multi-agent dynamic games require all players’ state information to compute control strategies. However, in real-world scenarios, sensing and communication limitations between agents make full state feedback expensive or impractical, and such strategies can become fragile when state information from other agents is inaccurate. To this end, we propose a regularized dynamic programming approach for finding sparse feedback policies that selectively depend on the states of a subset of agents in dynamic games. The proposed approach solves convex adaptive group Lasso problems to compute sparse policies approximating Nash equilibrium solutions. We prove the regularized solutions’ asymptotic convergence to a neighborhood of Nash equilibrium policies in linear-quadratic (LQ) games. We extend the proposed approach to general non-LQ games via an iterative algorithm. Empirical results in multi-robot interaction scenarios show that the proposed approach effectively computes feedback policies with varying sparsity levels. When agents have noisy observations of other agents’ states, simulation results indicate that the proposed regularized policies consistently achieve lower costs than standard Nash equilibrium policies by up to 77% for all interacting agents whose costs are coupled with other agents’ states.
@@ -53,6 +56,8 @@ Common feedback strategies in multi-agent dynamic games require all players’ s
 
 ## Code
 
+Coming soon
+
 <!-- [Repository Link](https://github.com/xinjie-liu/AutoEncodingBayesianInverseGames.jl) -->
 
 
@@ -69,9 +74,7 @@ Common feedback strategies in multi-agent dynamic games require all players’ s
 <!-- <a href ="https://xinjie-liu.github.io/static/talks/Xinjie2023TUD.pdf"><img src="/assets/img/Xinjie2023TUD-1.png" width = "560" height = "315"></a> -->
 
 
-## Supplementary Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2bYznyVd3lU?si=la8QI-ozSD7aB_cF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/hjb2GqbNIIE?si=5wr9hPFjPWe9RSZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+
 
