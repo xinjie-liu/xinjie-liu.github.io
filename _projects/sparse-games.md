@@ -20,7 +20,7 @@ category: Research projects
 
 TL;DR: We propose a dynamic programming approach for computing sparse feedback policies that selectively depend on a subset of agents in noncooperative games. We prove the convergence of the approach and show the advantages of employing sparse policies.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AouomX7v9WE?si=EJ8KiuBWxCamfYRG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/un-0I8votLw?si=LykE2p8NcrNjKL9N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## Abstract
