@@ -9,8 +9,11 @@ category: Research projects
 
 ## News
 
-* **2024-10-22** We submitted this work and published a preprint version!
+* **2025-04-09** We submitted an extended version of this work to IEEE Transactions on Automatic Control (T-AC)!
+  
+* **2024-12-23** This work will be presented as an extended abstract at <a href="https://aamas2025.org/">AAMAS 2025</a> . See you in Detroit!
 
+* **2024-10-22** We submitted this work and published a preprint version!
 
 
 
