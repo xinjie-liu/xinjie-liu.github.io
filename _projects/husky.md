@@ -2,7 +2,7 @@
 layout: page
 title: "ScrubBot: Autonomous Field Cleaning"
 description: a robotic solution for cleaning a field where obstacles present
-img: /assets/img/Husky_obstacle.gif
+img: /assets/img/optimized/Husky_obstacle_optimized.gif
 importance: 3
 category: "Other projects: control, planning, optimization"
 ---
@@ -19,10 +19,10 @@ The project was along with the course *RO47007 Multi-disciplinary Project* at De
 
 
 <!-- {:refdef: style="text-align: center;"} -->
-![husky_obstacle](/assets/img/Husky_obstacle.gif){: width="600"}
+![husky_obstacle](/assets/img/optimized/Husky_obstacle_optimized.gif){: width="600"}
 <!-- {: refdef} -->
 
-![husky_simulation](/assets/img/husky_simulation.gif){: width="600"}
+![husky_simulation](/assets/img/optimized/husky_simulation_optimized.gif){: width="600"}
 
 ## Report & Code
 
