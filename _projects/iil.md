@@ -12,7 +12,6 @@ category: "Other projects: learning"
 
 This is my bachelor thesis project, where I researched interactive imitation learning techniques. Combined with human corrective feedback, the robots rapidly learn to perform various control tasks in simulation.
 
-This work was jointly (and mainly) supervised by Prof. Youling Yu at the College of Electronics and Information Engineering and was rated as *Outstanding Bachelor Thesis* at Tongji University, Shanghai.
 
 ![husky_simulation](https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/lunarlander.gif){: width="600"}
 
