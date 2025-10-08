@@ -4,7 +4,7 @@ title: "Multi-Sensor Perception of Intelligent Vehicles"
 description: pedestrian and obstacle detection using multi-sensor information
 img: https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/perception.gif
 importance: 1
-category: "Other projects: learning"
+category: "Other projects"
 ---
 
 ## About
