@@ -3,7 +3,7 @@ layout: page
 title: "Reinforcement Learning via Corrective Feedback"
 description: interactive imitation learning research
 permalink: /projects/bachelor_thesis/
-img: https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/reacher.gif
+img: /assets/img/optimized/reacher.gif
 importance: 3
 category: "Other projects"
 ---
@@ -13,9 +13,9 @@ category: "Other projects"
 This is my bachelor thesis project, where I researched interactive imitation learning techniques. Combined with human corrective feedback, the robots rapidly learn to perform various control tasks in simulation.
 
 
-![husky_simulation](https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/lunarlander.gif){: width="600"}
+![husky_simulation](/assets/img/optimized/lunarlander.gif){: width="600"}
 
-![husky_simulation](https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/reacher.gif){: width="600"}
+![husky_simulation](/assets/img/optimized/reacher.gif){: width="600"}
 
 ## Thesis
 

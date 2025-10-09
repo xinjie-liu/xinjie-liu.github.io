@@ -3,7 +3,7 @@ layout: page
 title: "MPC Designing and Analysis"
 description: a model predictive control approach design and analysis
 # img: assets/img/mpc.gif
-img: https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/mpc.gif
+img: /assets/img/optimized/mpc.gif
 importance: 1
 category: "Other projects"
 ---
@@ -15,7 +15,7 @@ This is a model-predictive controller designing project. We designed an MPC cont
 The project was along with the course *SC42125 Model Predictive Control* (instructor: Prof. Sergio Grammatico) at the Delft University of Technology. 
 <!-- The final grade for this project was 10/10 (top 1 in the class). -->
 
-![husky_simulation](https://media.githubusercontent.com/media/xinjie-liu/xinjie-liu.github.io/main/assets/img/mpc.gif){: width="600"}
+![husky_simulation](/assets/img/optimized/mpc.gif){: width="600"}
 
 ## Paper & Code
 
