@@ -3,7 +3,7 @@ layout: page
 title: "Auto-Encoding Bayesian Inverse Games"
 img: assets/img/bayesian-inverse-games-partial.png
 description: Multi-modal distribution inference, uncertainty, generative modelling, differentiable programming
-importance: 2
+importance: 5
 category: Research projects
 ---
 
