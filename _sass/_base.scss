@@ -152,6 +152,12 @@ blockquote {
   }
 }
 
+// Homepage subtitle under the name (`subtitle:` in _pages/about.md)
+.post-header .desc {
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
 .post-description {
   margin-bottom: 2rem;
   font-size: 0.875rem;
