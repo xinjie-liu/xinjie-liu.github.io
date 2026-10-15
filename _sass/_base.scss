@@ -4,6 +4,40 @@
 
 // Typography
 
+// Palatino, matching the CV and the project pages. TeX Gyre Pagella (GUST Font
+// License, assets/fonts/) is the fallback for systems without Palatino.
+@font-face {
+  font-family: 'TeX Gyre Pagella';
+  src: url('../fonts/texgyrepagella-regular-latin.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'TeX Gyre Pagella';
+  src: url('../fonts/texgyrepagella-italic-latin.woff2') format('woff2');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'TeX Gyre Pagella';
+  src: url('../fonts/texgyrepagella-bold-latin.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+body, h1, h2, h3, h4, h5, h6, .btn, button, input, select, textarea {
+  font-family: 'Palatino Linotype', Palatino, 'TeX Gyre Pagella', 'Book Antiqua', serif;
+}
+
+// Palatino has no light weight; with the theme's body weight of 300, <strong>
+// ("bolder") would resolve below 700 and stay regular.
+strong, b {
+  font-weight: 700;
+}
+
 p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
   color: var(--global-text-color);
 }
@@ -71,6 +105,8 @@ blockquote {
 
   .card-title {
     color: var(--global-text-color);
+    -webkit-hyphens: auto;  // iOS/Safari before 17
+    hyphens: auto;  // narrow phone cards otherwise split words at arbitrary letters
   }
 
   .card-item {
@@ -588,6 +624,55 @@ footer.sticky-bottom {
       }
     }
   }
+}
+
+// Homepage publication list (_includes/publications.html)
+.publications {
+  ol.bibliography li {
+    margin-bottom: 1.5rem;
+    // One 3:2 frame for every thumbnail; images are letterboxed, never cropped.
+    .preview img {
+      width: 100%;
+      height: auto;
+      aspect-ratio: 3 / 2;
+      object-fit: contain;
+      background-color: #fff;
+      margin-bottom: 0.5rem;
+    }
+    // Paper titles read as titles, not as inline links.
+    .title {
+      font-weight: bold;
+      color: var(--global-text-color);
+      a {
+        color: inherit;
+        &:hover {
+          color: var(--global-theme-color);
+          text-decoration: none;
+        }
+      }
+    }
+    .honor {
+      color: var(--global-theme-color);
+    }
+    .links {
+      margin-top: 0.25rem;
+    }
+  }
+  .equal-contribution {
+    font-size: 0.875rem;
+    opacity: 0.7;
+    margin-bottom: 2rem;
+  }
+}
+
+// Embedded media: fixed-size iframes in the project pages and the calendar
+// would otherwise overflow the screen on phones.
+iframe {
+  max-width: 100%;
+}
+iframe[src*="youtube.com/embed"] {
+  height: auto;
+  aspect-ratio: 16 / 9;
 }
 
 // Rouge Color Customization

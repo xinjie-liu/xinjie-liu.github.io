@@ -1,0 +1,41 @@
+          <!-- Publications, from _data/publications.yml (rendered with Liquid, so it works on GitHub Pages without jekyll-scholar) -->
+          <div class="publications">
+            <h2>publications</h2>
+            {%- assign self_name = site.first_name | append: " " | append: site.last_name -%}
+            {%- capture self_html -%}<strong>{{ self_name }}</strong>{%- endcapture %}
+            <ol class="bibliography">
+            {%- for pub in site.data.publications %}
+              <li>
+                <div class="row">
+                  <div class="col-sm-3 preview">
+                    {%- if pub.image %}
+                    <img class="preview z-depth-1 rounded" src="{{ pub.image | relative_url }}" alt="" width="480" height="320" loading="lazy">
+                    {%- endif %}
+                  </div>
+                  <div class="col-sm-9">
+                    <div class="title">
+                      {%- if pub.url -%}
+                      <a href="{% if pub.url contains '://' %}{{ pub.url }}{% else %}{{ pub.url | relative_url }}{% endif %}">{{ pub.title }}</a>
+                      {%- else -%}
+                      {{ pub.title }}
+                      {%- endif -%}
+                    </div>
+                    <div class="author">{{ pub.authors | replace: self_name, self_html }}</div>
+                    <div class="periodical"><em>{{ pub.venue }}</em>, {{ pub.year }}</div>
+                    {%- if pub.honor %}
+                    <div class="honor">{{ pub.honor }}</div>
+                    {%- endif %}
+                    {%- if pub.links %}
+                    <div class="links">
+                      {%- for link in pub.links %}
+                      <a href="{% if link.url contains '://' %}{{ link.url }}{% else %}{{ link.url | relative_url }}{% endif %}" class="btn btn-sm z-depth-0" role="button">{{ link.name }}</a>
+                      {%- endfor %}
+                    </div>
+                    {%- endif %}
+                  </div>
+                </div>
+              </li>
+            {%- endfor %}
+            </ol>
+            <p class="equal-contribution">* Equal contribution</p>
+          </div>

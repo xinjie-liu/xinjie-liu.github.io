@@ -1,0 +1,116 @@
+# Publication list on the homepage, rendered by _includes/publications.html.
+# Entries appear in this order. "*" after a name marks equal contribution.
+# `url` links the title; `honor` adds a highlighted line under the venue.
+# Keep in sync with publications.tex in the CV repo.
+
+- title: Multi-Fidelity Policy Gradients Stabilize Data-Scarce Reinforcement Learning
+  authors: Xinjie Liu, Ruihan Zhao, Anirban Chaudhuri, Cyrus Neary, Ufuk Topcu, David Fridovich-Keil
+  venue: Under review
+  year: 2026
+  image: /assets/img/optimized/pub-mfpg-ppo.gif
+  url: https://xinjie-liu.github.io/mfpg-ppo/
+  links:
+    - { name: arXiv, url: "https://arxiv.org/abs/2610.02505" }
+    - { name: website, url: "https://xinjie-liu.github.io/mfpg-ppo/" }
+
+- title: Horizon-Scalable Q-Learning
+  authors: Haoran Xu, Pragya Srivastava, Xinjie Liu, Siddhant Agarwal, Amy Zhang
+  venue: Under review
+  year: 2026
+  image: /assets/img/publication_preview/hsql.png
+
+- title: A Multi-Fidelity Control Variate Approach for Policy Gradient Estimation
+  authors: Xinjie Liu*, Cyrus Neary*, Kushagra Gupta, Wesley A. Suttle, Christian Ellis, Ufuk Topcu, David Fridovich-Keil
+  venue: Transactions on Machine Learning Research (TMLR)
+  year: 2026
+  honor: Awarded J2C Certification (selected to present at NeurIPS 2026)
+  image: /assets/img/publication_preview/mfpg.png
+  url: https://xinjie-liu.github.io/mfpg-rl/
+  links:
+    - { name: OpenReview, url: "https://openreview.net/forum?id=zAo0L7Dcqt" }
+    - { name: arXiv, url: "https://arxiv.org/abs/2503.05696" }
+    - { name: website, url: "https://xinjie-liu.github.io/mfpg-rl/" }
+    - { name: code, url: "https://github.com/CLeARoboticsLab/MultiFidelityPolicyGradients" }
+    - { name: video, url: "https://www.youtube.com/watch?v=AlbLyp2_Xao" }
+
+- title: Linear-Quadratic Gaussian Games with Distributed Sparse Estimation
+  authors: Tianyu Qiu, Filippos Fotiadis, Xinjie Liu, Christian Ellis, Jesse Milzman, Wesley A. Suttle, Ufuk Topcu, David Fridovich-Keil
+  venue: IEEE Control Systems Letters (L-CSS)
+  year: 2026
+  image: /assets/img/publication_preview/lqg-games.png
+  url: https://ieeexplore.ieee.org/abstract/document/11563812
+  links:
+    - { name: paper, url: "https://ieeexplore.ieee.org/abstract/document/11563812" }
+    - { name: arXiv, url: "https://arxiv.org/abs/2603.17202" }
+
+- title: Bayesian Inverse Games with High-Dimensional Multi-Modal Observations
+  authors: Yash Jain*, Xinjie Liu*, Lasse Peters*, David Fridovich-Keil, Ufuk Topcu
+  venue: Under review at The International Journal of Robotics Research (IJRR)
+  year: 2025
+  image: /assets/img/publication_preview/ijrr-inverse-games.jpg
+  url: https://arxiv.org/abs/2601.00696
+  links:
+    - { name: arXiv, url: "https://arxiv.org/abs/2601.00696" }
+
+- title: Approximate Feedback Nash Equilibria with Sparse Inter-Agent Dependencies
+  authors: Xinjie Liu, Jingqi Li, Filippos Fotiadis, Mustafa O. Karabag, Jesse Milzman, David Fridovich-Keil, Ufuk Topcu
+  venue: Conditionally accepted at IEEE Transactions on Automatic Control (T-AC)
+  year: 2025
+  image: /assets/img/publication_preview/sparse-games.png
+  url: /projects/sparse-games/
+  links:
+    - { name: arXiv, url: "https://arxiv.org/abs/2410.16441" }
+    - { name: website, url: "/projects/sparse-games/" }
+
+- title: Second-Order Algorithms for Finding Local Nash Equilibria in Zero-Sum Games
+  authors: Kushagra Gupta, Xinjie Liu, Ross Allen, Ufuk Topcu, David Fridovich-Keil
+  venue: Under review
+  year: 2025
+  image: /assets/img/publication_preview/zero-sum.png
+  url: https://arxiv.org/abs/2406.03565
+  links:
+    - { name: arXiv, url: "https://arxiv.org/abs/2406.03565" }
+
+- title: Inferring Foresightedness in Dynamic Noncooperative Games
+  authors: Cade Armstrong*, Ryan Park*, Xinjie Liu, Kushagra Gupta, David Fridovich-Keil
+  venue: IEEE Robotics and Automation Letters (RA-L)
+  year: 2025
+  image: /assets/img/publication_preview/foresightedness.jpg
+  url: https://ieeexplore.ieee.org/document/11217215
+  links:
+    - { name: paper, url: "https://ieeexplore.ieee.org/document/11217215" }
+    - { name: arXiv, url: "https://arxiv.org/abs/2412.01017" }
+
+- title: "Policies with Sparse Inter-Agent Dependencies in Dynamic Games: A Dynamic Programming Approach"
+  authors: Xinjie Liu, Jingqi Li, Filippos Fotiadis, Mustafa O. Karabag, Jesse Milzman, David Fridovich-Keil, Ufuk Topcu
+  venue: Autonomous Agents and Multi-Agent Systems (AAMAS), Extended Abstract
+  year: 2025
+  image: /assets/img/publication_preview/sparse-games-policy.png
+  url: /projects/sparse-games/
+  links:
+    - { name: paper, url: "https://ifaamas.csc.liv.ac.uk/Proceedings/aamas2025/pdfs/p2633.pdf" }
+    - { name: website, url: "/projects/sparse-games/" }
+
+- title: Auto-Encoding Bayesian Inverse Games
+  authors: Xinjie Liu*, Lasse Peters*, Javier Alonso-Mora, Ufuk Topcu, David Fridovich-Keil
+  venue: Algorithmic Foundations of Robotics XVI (WAFR)
+  year: 2024
+  image: /assets/img/publication_preview/bayesian-inverse-games.png
+  url: /projects/bayesian-inverse-games/
+  links:
+    - { name: paper, url: "https://doi.org/10.1007/978-3-032-09967-9_16" }
+    - { name: arXiv, url: "https://arxiv.org/abs/2402.08902" }
+    - { name: website, url: "/projects/bayesian-inverse-games/" }
+    - { name: code, url: "https://github.com/xinjie-liu/AutoEncodingBayesianInverseGames.jl" }
+
+- title: Learning to Play Trajectory Games against Opponents with Unknown Objectives
+  authors: Xinjie Liu*, Lasse Peters*, Javier Alonso-Mora
+  venue: IEEE Robotics and Automation Letters (RA-L)
+  year: 2023
+  image: /assets/img/publication_preview/trajectory-games.jpg
+  url: /projects/game/
+  links:
+    - { name: paper, url: "https://ieeexplore.ieee.org/abstract/document/10137879" }
+    - { name: arXiv, url: "https://arxiv.org/abs/2211.13779" }
+    - { name: website, url: "/projects/game/" }
+    - { name: code, url: "https://github.com/xinjie-liu/DifferentiableAdaptiveGames.jl" }

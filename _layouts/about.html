@@ -40,6 +40,11 @@ layout: default
             {{ content }}
           </div>
 
+          {% if page.publications -%}
+          <!-- Publications -->
+          {%- include publications.html %}
+          {%- endif %}
+
           {% if page.news -%}
           <!-- News -->
           {%- include news.html %}
