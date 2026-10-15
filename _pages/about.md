@@ -21,11 +21,11 @@ social: false  # includes social icons at the bottom of the page
 
 Hello and welcome! I am a fourth-year Ph.D. student in Electrical and Computer Engineering at [The University of Texas at Austin](https://www.utexas.edu/). I am co-advised by [Ufuk Topcu](https://www.ae.utexas.edu/people/faculty/faculty-directory/topcu) and [David Fridovich-Keil](https://dfridovi.github.io/). I obtained a master's degree in Robotics with the highest distinction (*cum laude*) from the [Delft University of Technology](https://www.tudelft.nl/en/), the Netherlands, where I was advised by [Javier Alonso-Mora](https://www.autonomousrobots.nl/). Before that, I received a bachelor's degree in Automotive Engineering from [Tongji University](https://en.tongji.edu.cn/p/#/), Shanghai.
 
-I develop algorithms and theory for scalable, sample-efficient, and trustworthy robot learning. Examples of my work include:
+I develop algorithms and theory for scalable, sample-efficient, and trustworthy **robot learning**. Examples of my work include:
 
-* Multi-fidelity reinforcement learning methods that learn stably from scarce real-robot data, complemented by abundant but imperfect simulation data.
+* [Multi-fidelity methods](https://xinjie-liu.github.io/mfpg-ppo/) that stabilize **real-robot reinforcement learning** by combining scarce real-world data (e.g., as few as 4 rollouts per update) with abundant but imperfect simulation data, while remaining robust to simulation bias.
 
-* Learning behavior models that predict how agents act in interaction-rich, uncertain scenarios.
+* [Learning behavior models](https://xinjie-liu.github.io/projects/bayesian-inverse-games/) that predict how agents act in interaction-rich, uncertain scenarios.
 
 My research draws on reinforcement learning, game theory, and differentiable optimization, and I ground it in real-world systems such as robotic manipulators and mobile robots.
 
