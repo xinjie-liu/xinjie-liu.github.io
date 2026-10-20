@@ -3,7 +3,8 @@ layout: page
 title: "Autonomous Delivery"
 description: motion planning and control for an autonomous quadrotor drone
 img: /assets/img/optimized/rrt.gif
-importance: 4
+thumb: /assets/img/optimized/thumb-pdm.gif  # small animated preview for the homepage's other-projects grid
+importance: 5
 category: "Other projects"
 ---
 

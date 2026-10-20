@@ -3,6 +3,7 @@ layout: page
 title: "Learn Driving Policy from Pixels"
 description: Imitation learning driving policies from image observations
 img: /assets/img/optimized/learningdrive.gif
+thumb: /assets/img/optimized/thumb-learningdrive.gif  # small animated preview for the homepage's other-projects grid
 importance: 2
 category: "Other projects"
 ---

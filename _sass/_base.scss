@@ -152,10 +152,103 @@ blockquote {
   }
 }
 
+// Same navbar height on the homepage, which has no name link
+#navbar {
+  min-height: 57px;
+}
+
 // Homepage subtitle under the name (`subtitle:` in _pages/about.md)
 .post-header .desc {
   font-size: 1.25rem;
   font-weight: 700;
+}
+
+// Link buttons under the homepage subtitle (_includes/profile_links.html)
+.post-header .profile-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.75rem;
+  margin-bottom: 1rem;
+  a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.25rem 0.75rem;
+    color: var(--global-text-color);
+    border: 1px solid var(--global-text-color);
+    border-radius: 0.25rem;
+    &:hover {
+      color: var(--global-theme-color);
+      border-color: var(--global-theme-color);
+      text-decoration: none;
+    }
+  }
+}
+
+// Keep the larger gap above the bio when there is no internship line
+.post-header .profile-links:last-child {
+  margin-bottom: 1.5rem;
+}
+
+// Internship line under the link buttons (`seeking:` in _pages/about.md)
+.post-header .profile-seeking {
+  margin-bottom: 1.5rem;
+  p {
+    margin-bottom: 0;
+  }
+}
+
+// On phones, a smaller centered photo keeps the bio closer to the top.
+@media (max-width: 575.98px) {
+  .profile {
+    width: 60%;
+    margin: 0 auto 1rem;
+    float: none !important;
+  }
+}
+
+// Other projects at the bottom of the homepage (_includes/other_projects.html)
+.other-projects {
+  margin-top: 2rem;
+  .other-projects-intro {
+    opacity: 0.7;
+  }
+  .other-projects-grid {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 1rem 0.75rem;
+    @media (max-width: 991.98px) {
+      grid-template-columns: repeat(3, 1fr);
+    }
+    @media (max-width: 575.98px) {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+  .other-project {
+    color: var(--global-text-color);
+    img {
+      display: block;
+      width: 100%;
+      height: auto;
+      aspect-ratio: 3 / 2;
+      object-fit: cover;
+      margin-bottom: 0.35rem;
+    }
+    .other-project-title {
+      display: block;
+      font-size: 0.8rem;
+      line-height: 1.25;
+    }
+    &:hover {
+      color: var(--global-theme-color);
+      text-decoration: none;
+    }
+  }
+  .other-projects-more {
+    margin-top: 1.25rem;
+    margin-bottom: 2rem;
+  }
 }
 
 .post-description {
@@ -237,41 +330,6 @@ blockquote {
         }
       }
     }
-  }
-}
-
-.navbar-toggler {
-  .icon-bar {
-    display: block;
-    width: 22px;
-    height: 2px;
-    background-color: var(--global-text-color);
-    border-radius: 1px;
-    margin-bottom: 4px;
-    transition: all 0.2s;
-  }
-  .top-bar {
-    transform: rotate(45deg);
-    transform-origin: 10% 10%;
-  }
-  .middle-bar {
-    opacity: 0;
-  }
-  .bottom-bar {
-    transform: rotate(-45deg);
-    transform-origin: 10% 90%;
-  }
-}
-
-.navbar-toggler.collapsed {
-  .top-bar {
-    transform: rotate(0);
-  }
-  .middle-bar {
-    opacity: 1;
-  }
-  .bottom-bar {
-    transform: rotate(0);
   }
 }
 

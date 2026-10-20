@@ -4,7 +4,8 @@ title: "Reinforcement Learning via Corrective Feedback"
 description: interactive imitation learning research
 permalink: /projects/bachelor_thesis/
 img: /assets/img/optimized/reacher.gif
-importance: 3
+thumb: /assets/img/optimized/thumb-iil.gif  # small animated preview for the homepage's other-projects grid
+importance: 4
 category: "Other projects"
 ---
 

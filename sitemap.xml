@@ -13,11 +13,6 @@
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://xinjie-liu.github.io/projects/</loc>
-  <lastmod>2022-08-02T20:19:23+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
   <loc>https://xinjie-liu.github.io/projects/bachelor_thesis/</loc>
   <lastmod>2022-08-02T20:19:23+00:00</lastmod>
   <priority>0.80</priority>
@@ -39,11 +34,6 @@
 </url>
 <url>
   <loc>https://xinjie-liu.github.io/projects/husky/</loc>
-  <lastmod>2022-08-02T20:19:23+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://xinjie-liu.github.io/projects/rl/</loc>
   <lastmod>2022-08-02T20:19:23+00:00</lastmod>
   <priority>0.64</priority>
 </url>

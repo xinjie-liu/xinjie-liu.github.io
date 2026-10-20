@@ -1,0 +1,24 @@
+          <!-- Other projects on the homepage (_projects/ with category "Other projects").
+               Projects with a `thumb` get an animated card; the rest go in the "More" line. -->
+          {%- assign other_projects = site.projects | where: "category", "Other projects" | sort: "importance" -%}
+          {%- assign with_thumb = other_projects | where_exp: "p", "p.thumb" -%}
+          {%- assign without_thumb = other_projects | where_exp: "p", "p.thumb == nil" %}
+          <div class="other-projects">
+            <h2 id="other-projects">other projects</h2>
+            <p class="other-projects-intro">Other course and team projects.</p>
+            <div class="other-projects-grid">
+            {%- for project in with_thumb %}
+              <a class="other-project" href="{% if project.redirect %}{{ project.redirect }}{% else %}{{ project.url | relative_url }}{% endif %}">
+                <img class="z-depth-1 rounded" src="{{ project.thumb | relative_url }}" alt="" loading="lazy">
+                <span class="other-project-title">{{ project.caption | default: project.title }}</span>
+              </a>
+            {%- endfor %}
+            </div>
+            {%- if without_thumb.size > 0 %}
+            <p class="other-projects-more">More:
+            {%- for project in without_thumb %}
+              <a href="{% if project.redirect %}{{ project.redirect }}{% else %}{{ project.url | relative_url }}{% endif %}">{{ project.title }}</a>{% unless forloop.last %} ·{% endunless %}
+            {%- endfor %}
+            </p>
+            {%- endif %}
+          </div>

@@ -3,6 +3,7 @@ layout: page
 title: "ScrubBot: Autonomous Field Cleaning"
 description: a robotic solution for cleaning a field where obstacles present
 img: /assets/img/optimized/Husky_obstacle_optimized.gif
+thumb: /assets/img/optimized/thumb-husky.gif  # small animated preview for the homepage's other-projects grid
 importance: 3
 category: "Other projects"
 ---

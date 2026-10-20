@@ -3,7 +3,8 @@ layout: page
 title: "Multi-Sensor Perception of Intelligent Vehicles"
 description: pedestrian and obstacle detection using multi-sensor information
 img: /assets/img/optimized/perception.gif
-importance: 1
+thumb: /assets/img/optimized/thumb-perception.gif  # small animated preview for the homepage's other-projects grid
+importance: 6
 category: "Other projects"
 ---
 

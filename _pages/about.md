@@ -15,6 +15,8 @@ profile:
 
 publications: true  # includes the list in _data/publications.yml
 news: true  # includes a list of news items
+other_projects: true  # includes the "Other projects" grid from _projects/
+seeking: "**I am looking for Summer 2027 research internships in reinforcement learning and robot learning.** Please feel free to [reach out](mailto:xinjie-liu@utexas.edu)!"  # shown right under the link buttons (Markdown)
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
@@ -28,5 +30,3 @@ I develop algorithms and theory for scalable, sample-efficient, and trustworthy 
 * [Learning behavior models](https://xinjie-liu.github.io/projects/bayesian-inverse-games/) that predict how agents act in interaction-rich, uncertain scenarios.
 
 My research draws on reinforcement learning, game theory, and differentiable optimization, and I ground it in real-world systems such as robotic manipulators and mobile robots.
-
-**I am looking for Summer 2027 research internships in reinforcement learning and robot learning.** Please feel free to [reach out](mailto:xinjie-liu@utexas.edu)!

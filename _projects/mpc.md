@@ -4,7 +4,7 @@ title: "MPC Designing and Analysis"
 description: a model predictive control approach design and analysis
 # img: assets/img/mpc.gif
 img: /assets/img/optimized/mpc.gif
-importance: 1
+importance: 8
 category: "Other projects"
 ---
 

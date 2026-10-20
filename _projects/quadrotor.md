@@ -3,7 +3,7 @@ layout: page
 title: "Quadrotor Tracking Control"
 description: quadrotor controllers implementation for tracking tasks
 img: /assets/img/optimized/quadrotor.gif
-importance: 5
+importance: 7
 category: "Other projects"
 ---
 
