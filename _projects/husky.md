@@ -25,10 +25,6 @@ The project was along with the course *RO47007 Multi-disciplinary Project* at De
 
 ![husky_simulation](/assets/img/optimized/husky_simulation_optimized.gif){: width="600"}
 
-## Report & Code
-
-Due to the non-disclosure agreement (NDA), the full-text report cannot be published online. But the package for the motion control module will be available soon.
-
 ## Supplementary Video
 
 <iframe width="880" height="495" src="https://www.youtube.com/embed/hZuqNEBZi00" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

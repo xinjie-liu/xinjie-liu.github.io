@@ -16,12 +16,6 @@ The project was along with the course *RO47002 Robot Dynamics and Control* (inst
 
 ![husky_simulation](/assets/img/optimized/quadrotor.gif){: width="600"}
 
-## Paper & Code
-
-<!-- TODO: cool responsive image -->
-
-The code repository is coming soon. 
-
 ## Supplementary Video
 
 <iframe width="880" height="495" src="https://www.youtube.com/embed/s3RZ_c0Nhek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

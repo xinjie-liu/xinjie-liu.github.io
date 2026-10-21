@@ -57,10 +57,6 @@ Common feedback strategies in multi-agent dynamic games require all players’ s
 
 
 
-## Code
-
-Coming soon
-
 <!-- [Repository Link](https://github.com/xinjie-liu/AutoEncodingBayesianInverseGames.jl) -->
 
 
