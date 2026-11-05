@@ -5,7 +5,7 @@
 
 - title: Multi-Fidelity Policy Gradients Stabilize Data-Scarce Reinforcement Learning
   authors: Xinjie Liu, Ruihan Zhao, Anirban Chaudhuri, Cyrus Neary, Ufuk Topcu, David Fridovich-Keil
-  venue: Under review
+  venue: Under review. Accepted at the CoRL 2026 Workshop on Roadmap to Sample-Efficient Real-World Reinforcement Learning
   year: 2026
   image: /assets/img/optimized/pub-mfpg-ppo.gif
   url: https://xinjie-liu.github.io/mfpg-ppo/
