@@ -18,6 +18,11 @@
   venue: Under review
   year: 2026
   image: /assets/img/publication_preview/hsql.png
+  url: https://ryanxhr.github.io/hql/
+  links:
+    - { name: paper, url: "https://ryanxhr.github.io/hql/paper.pdf" }
+    - { name: website, url: "https://ryanxhr.github.io/hql/" }
+    - { name: code, url: "https://github.com/ryanxhr/hql" }
 
 - title: A Multi-Fidelity Control Variate Approach for Policy Gradient Estimation
   authors: Xinjie Liu*, Cyrus Neary*, Kushagra Gupta, Wesley A. Suttle, Christian Ellis, Ufuk Topcu, David Fridovich-Keil
