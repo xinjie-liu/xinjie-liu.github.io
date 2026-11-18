@@ -17,7 +17,7 @@
   authors: Haoran Xu, Pragya Srivastava, Xinjie Liu, Siddhant Agarwal, Amy Zhang
   venue: Under review
   year: 2026
-  image: /assets/img/publication_preview/hsql.png
+  image: /assets/img/optimized/pub-hsql.gif
   url: https://ryanxhr.github.io/hql/
   links:
     - { name: paper, url: "https://ryanxhr.github.io/hql/paper.pdf" }
